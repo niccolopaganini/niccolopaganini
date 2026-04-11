@@ -18,6 +18,18 @@
 
 </div>
 
+--- 
+
+## 📜Thirukkural of the Day
+
+--- 
+<!-- KURAL:START -->
+> *Coming Soon!*
+<!-- KURAL:END -->
+
+
+<sub>Updated daily via GitHub Actions</sub>
+
 ---
 
 ## `> Who Am I`
