@@ -24,7 +24,14 @@
 
 --- 
 <!-- KURAL:START -->
-> *Coming Soon!*
+### 📜 Thirukkural of the Day
+
+> மனத்து ளதுபோலக் காட்டி ஒருவற்கு இனத்துள தாகும் அறிவு.  
+>
+> *Man's wisdom seems the offspring of his mind; 'Tis outcome of companionship we find.*
+
+*சிற்றினஞ்சேராமை · பொருட்பால்*  
+<sub>Kural #454 · May 10, 2026</sub>
 <!-- KURAL:END -->
 
 
