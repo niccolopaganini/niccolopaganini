@@ -26,12 +26,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> மனத்து ளதுபோலக் காட்டி ஒருவற்கு இனத்துள தாகும் அறிவு.  
+> தெளிவி லதனைத் தொடங்கார் இளிவென்னும் ஏதப்பாடு அஞ்சு பவர்.  
 >
-> *Man's wisdom seems the offspring of his mind; 'Tis outcome of companionship we find.*
+> *A work of which the issue is not clear, Begin not they reproachful scorn who fear.*
 
-*சிற்றினஞ்சேராமை · பொருட்பால்*  
-<sub>Kural #454 · May 10, 2026</sub>
+*தெரிந்துசெயல்வகை · பொருட்பால்*  
+<sub>Kural #464 · May 10, 2026</sub>
 <!-- KURAL:END -->
 
 
