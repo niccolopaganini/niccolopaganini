@@ -26,12 +26,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> தெளிவி லதனைத் தொடங்கார் இளிவென்னும் ஏதப்பாடு அஞ்சு பவர்.  
+> மன்னர்க்கு மன்னுதல் செங்கோன்மை அஃதின்றேல் மன்னாவாம் மன்னர்க் கொளி.  
 >
-> *A work of which the issue is not clear, Begin not they reproachful scorn who fear.*
+> *To rulers' rule stability is sceptre right; When this is not, quenched is the rulers' light.*
 
-*தெரிந்துசெயல்வகை · பொருட்பால்*  
-<sub>Kural #464 · May 10, 2026</sub>
+*கொடுங்கோன்மை · பொருட்பால்*  
+<sub>Kural #556 · May 11, 2026</sub>
 <!-- KURAL:END -->
 
 
