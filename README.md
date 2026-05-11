@@ -19,10 +19,6 @@
 </div>
 
 --- 
-
-## 📜Thirukkural of the Day
-
---- 
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
