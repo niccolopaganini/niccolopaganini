@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> மன்னர்க்கு மன்னுதல் செங்கோன்மை அஃதின்றேல் மன்னாவாம் மன்னர்க் கொளி.  
+> கண்ணுடையர் என்பவர் கற்றோர் முகத்திரண்டு புண்ணுடையர் கல்லா தவர்.  
 >
-> *To rulers' rule stability is sceptre right; When this is not, quenched is the rulers' light.*
+> *Men who learning gain have eyes, men say; Blockheads' faces pairs of sores display.*
 
-*கொடுங்கோன்மை · பொருட்பால்*  
-<sub>Kural #556 · May 11, 2026</sub>
+*கல்வி · பொருட்பால்*  
+<sub>Kural #393 · May 12, 2026</sub>
 <!-- KURAL:END -->
 
 
