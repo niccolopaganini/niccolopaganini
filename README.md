@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> கண்ணுடையர் என்பவர் கற்றோர் முகத்திரண்டு புண்ணுடையர் கல்லா தவர்.  
+> நோக்கினாள் நோக்கி இறைஞ்சினாள் அஃதவள் யாப்பினுள் அட்டிய நீர்.  
 >
-> *Men who learning gain have eyes, men say; Blockheads' faces pairs of sores display.*
+> *She looked, and looking drooped her head: On springing shoot of love 'its water shed!*
 
-*கல்வி · பொருட்பால்*  
-<sub>Kural #393 · May 12, 2026</sub>
+*குறிப்பறிதல் · காமத்துப்பால்*  
+<sub>Kural #1093 · May 13, 2026</sub>
 <!-- KURAL:END -->
 
 
