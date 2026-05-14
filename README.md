@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> நோக்கினாள் நோக்கி இறைஞ்சினாள் அஃதவள் யாப்பினுள் அட்டிய நீர்.  
+> ஆற்றின் அளவறிந்து கற்க அவையஞ்சா மாற்றங் கொடுத்தற் பொருட்டு.  
 >
-> *She looked, and looking drooped her head: On springing shoot of love 'its water shed!*
+> *By rule, to dialectic art your mind apply, That in the council fearless you may make an apt reply.*
 
-*குறிப்பறிதல் · காமத்துப்பால்*  
-<sub>Kural #1093 · May 13, 2026</sub>
+*அவையஞ்சாமை · பொருட்பால்*  
+<sub>Kural #725 · May 14, 2026</sub>
 <!-- KURAL:END -->
 
 
