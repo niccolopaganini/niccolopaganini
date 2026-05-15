@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> ஆற்றின் அளவறிந்து கற்க அவையஞ்சா மாற்றங் கொடுத்தற் பொருட்டு.  
+> நாண்வேலி கொள்ளாது மன்னோ வியன்ஞாலம் பேணலர் மேலா யவர்.  
 >
-> *By rule, to dialectic art your mind apply, That in the council fearless you may make an apt reply.*
+> *Unless the hedge of shame inviolate remain, For men of lofty soul the earth's vast realms no charms retain.*
 
-*அவையஞ்சாமை · பொருட்பால்*  
-<sub>Kural #725 · May 14, 2026</sub>
+*நாணுடைமை · பொருட்பால்*  
+<sub>Kural #1016 · May 15, 2026</sub>
 <!-- KURAL:END -->
 
 
