@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> நாண்வேலி கொள்ளாது மன்னோ வியன்ஞாலம் பேணலர் மேலா யவர்.  
+> சினத்தைப் பொருளென்று கொண்டவன் கேடு நிலத்தறைந்தான் கைபிழையா தற்று.  
 >
-> *Unless the hedge of shame inviolate remain, For men of lofty soul the earth's vast realms no charms retain.*
+> *The hand that smites the earth unfailing feels the sting; So perish they who nurse their wrath as noble thing.*
 
-*நாணுடைமை · பொருட்பால்*  
-<sub>Kural #1016 · May 15, 2026</sub>
+*வெகுளாமை · அறத்துப்பால்*  
+<sub>Kural #307 · May 16, 2026</sub>
 <!-- KURAL:END -->
 
 
