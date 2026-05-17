@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> சினத்தைப் பொருளென்று கொண்டவன் கேடு நிலத்தறைந்தான் கைபிழையா தற்று.  
+> படுபயன் வெஃகிப் பழிப்படுவ செய்யார் நடுவன்மை நாணு பவர்.  
 >
-> *The hand that smites the earth unfailing feels the sting; So perish they who nurse their wrath as noble thing.*
+> *Through lust of gain, no deeds that retribution bring, Do they, who shrink with shame from every unjust thing.*
 
-*வெகுளாமை · அறத்துப்பால்*  
-<sub>Kural #307 · May 16, 2026</sub>
+*வெஃகாமை · அறத்துப்பால்*  
+<sub>Kural #172 · May 17, 2026</sub>
 <!-- KURAL:END -->
 
 
