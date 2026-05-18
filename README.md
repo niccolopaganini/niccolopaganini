@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> படுபயன் வெஃகிப் பழிப்படுவ செய்யார் நடுவன்மை நாணு பவர்.  
+> கண்ணிற்கு அணிகலம் கண்ணோட்டம் அஃதின்றேல் புண்ணென்று உணரப் படும்  
 >
-> *Through lust of gain, no deeds that retribution bring, Do they, who shrink with shame from every unjust thing.*
+> *Benignity is eyes' adorning grace; Without it eyes are wounds disfiguring face.*
 
-*வெஃகாமை · அறத்துப்பால்*  
-<sub>Kural #172 · May 17, 2026</sub>
+*கண்ணோட்டம் · பொருட்பால்*  
+<sub>Kural #575 · May 18, 2026</sub>
 <!-- KURAL:END -->
 
 
