@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> இழத்தொறூஉம் காதலிக்கும் சூதேபோல் துன்பம் உழத்தொறூஉம் காதற்று உயிர்.  
+> கொடையளி செங்கோல் குடியோம்பல் நான்கும் உடையானாம் வேந்தர்க் கொளி.  
 >
-> *Howe'er he lose, the gambler's heart is ever in the play; E'en so the soul, despite its griefs, would live on earth alway.*
+> *Gifts, grace, right sceptre, care of people's weal; These four a light of dreaded kings reveal.*
 
-*சூது · பொருட்பால்*  
-<sub>Kural #940 · May 19, 2026</sub>
+*இறைமாட்சி · பொருட்பால்*  
+<sub>Kural #390 · May 20, 2026</sub>
 <!-- KURAL:END -->
 
 
