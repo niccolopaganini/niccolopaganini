@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> கொடையளி செங்கோல் குடியோம்பல் நான்கும் உடையானாம் வேந்தர்க் கொளி.  
+> மனைமாட்சி இல்லாள்கண் இல்லாயின் வாழ்க்கை எனைமாட்சித் தாயினும் இல்.  
 >
-> *Gifts, grace, right sceptre, care of people's weal; These four a light of dreaded kings reveal.*
+> *If household excellence be wanting in the wife, Howe'er with splendour lived, all worthless is the life.*
 
-*இறைமாட்சி · பொருட்பால்*  
-<sub>Kural #390 · May 20, 2026</sub>
+*வாழ்க்கைத் துணைநலம் · அறத்துப்பால்*  
+<sub>Kural #52 · May 21, 2026</sub>
 <!-- KURAL:END -->
 
 
