@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> மனைமாட்சி இல்லாள்கண் இல்லாயின் வாழ்க்கை எனைமாட்சித் தாயினும் இல்.  
+> சிறுமையும் செல்லாத் துனியும் வறுமையும் இல்லாயின் வெல்லும் படை.  
 >
-> *If household excellence be wanting in the wife, Howe'er with splendour lived, all worthless is the life.*
+> *Where weakness, clinging fear and poverty Are not, the host will gain the victory.*
 
-*வாழ்க்கைத் துணைநலம் · அறத்துப்பால்*  
-<sub>Kural #52 · May 21, 2026</sub>
+*படைமாட்சி · பொருட்பால்*  
+<sub>Kural #769 · May 22, 2026</sub>
 <!-- KURAL:END -->
 
 
