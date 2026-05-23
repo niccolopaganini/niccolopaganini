@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> சிறுமையும் செல்லாத் துனியும் வறுமையும் இல்லாயின் வெல்லும் படை.  
+> மக்கள்மெய் தீண்டல் உடற்கின்பம் மற்றுஅவர் சொற்கேட்டல் இன்பம் செவிக்கு.  
 >
-> *Where weakness, clinging fear and poverty Are not, the host will gain the victory.*
+> *To patent sweet the touch of children dear; Their voice is sweetest music to his ear.*
 
-*படைமாட்சி · பொருட்பால்*  
-<sub>Kural #769 · May 22, 2026</sub>
+*புதல்வரைப் பெறுதல் · அறத்துப்பால்*  
+<sub>Kural #65 · May 23, 2026</sub>
 <!-- KURAL:END -->
 
 
