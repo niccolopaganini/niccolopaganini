@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> மக்கள்மெய் தீண்டல் உடற்கின்பம் மற்றுஅவர் சொற்கேட்டல் இன்பம் செவிக்கு.  
+> அறஞ்சொல்லும் நெஞ்சத்தான் அன்மை புறஞ்சொல்லும் புன்மையாற் காணப் படும்.  
 >
-> *To patent sweet the touch of children dear; Their voice is sweetest music to his ear.*
+> *The slanderous meanness that an absent friend defames, 'This man in words owns virtue, not in heart,' proclaims.*
 
-*புதல்வரைப் பெறுதல் · அறத்துப்பால்*  
-<sub>Kural #65 · May 23, 2026</sub>
+*புறங்கூறாமை · அறத்துப்பால்*  
+<sub>Kural #185 · May 24, 2026</sub>
 <!-- KURAL:END -->
 
 
