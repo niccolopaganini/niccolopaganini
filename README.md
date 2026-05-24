@@ -35,6 +35,12 @@
 
 ---
 
+## `> What I am currently working on`
+
+### I recently completed my work on this Thirukkural - I implemented a Gacha system to pick one so as to never run out of options. Check it out and share your thoughts!
+
+---
+
 ## `> Who Am I`
 
 I'm **Nitish V**, an engineer who builds things that sit at the intersection of **machine learning**, and **real-world impact**. I hold an **MS in Computer Science** from the **University of Colorado Boulder** (SKO Buffs!), and I've spent my career so far writing software that ranges from preventing elderly patients from falling to matching limit orders in microseconds.
