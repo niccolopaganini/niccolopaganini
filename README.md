@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> அறஞ்சொல்லும் நெஞ்சத்தான் அன்மை புறஞ்சொல்லும் புன்மையாற் காணப் படும்.  
+> வினைசெய்வார் தம்சுற்றம் வேண்டாதார் என்றாங்கு அனைவரையும் ஆராய்வது ஒற்று.  
 >
-> *The slanderous meanness that an absent friend defames, 'This man in words owns virtue, not in heart,' proclaims.*
+> *His officers, his friends, his enemies, All these who watch are trusty spies.*
 
-*புறங்கூறாமை · அறத்துப்பால்*  
-<sub>Kural #185 · May 24, 2026</sub>
+*ஒற்றாடல் · பொருட்பால்*  
+<sub>Kural #584 · May 26, 2026</sub>
 <!-- KURAL:END -->
 
 
