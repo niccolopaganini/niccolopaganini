@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> வினைசெய்வார் தம்சுற்றம் வேண்டாதார் என்றாங்கு அனைவரையும் ஆராய்வது ஒற்று.  
+> இனையர் இவரெமக்கு இன்னம்யாம் என்று புனையினும் புல்லென்னும் நட்பு.  
 >
-> *His officers, his friends, his enemies, All these who watch are trusty spies.*
+> *Mean is the friendship that men blazon forth, 'He's thus to me' and 'such to him my worth'.*
 
-*ஒற்றாடல் · பொருட்பால்*  
-<sub>Kural #584 · May 26, 2026</sub>
+*நட்பு · பொருட்பால்*  
+<sub>Kural #790 · May 27, 2026</sub>
 <!-- KURAL:END -->
 
 
