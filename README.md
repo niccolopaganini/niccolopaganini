@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> இனையர் இவரெமக்கு இன்னம்யாம் என்று புனையினும் புல்லென்னும் நட்பு.  
+> இழிவறிந்து உண்பான்கண் இன்பம்போல் நிற்கும் கழிபேர் இரையான்கண் நோய்.  
 >
-> *Mean is the friendship that men blazon forth, 'He's thus to me' and 'such to him my worth'.*
+> *On modest temperance as pleasures pure, So pain attends the greedy epicure.*
 
-*நட்பு · பொருட்பால்*  
-<sub>Kural #790 · May 27, 2026</sub>
+*மருந்து · பொருட்பால்*  
+<sub>Kural #946 · May 28, 2026</sub>
 <!-- KURAL:END -->
 
 
