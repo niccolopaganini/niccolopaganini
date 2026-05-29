@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> இழிவறிந்து உண்பான்கண் இன்பம்போல் நிற்கும் கழிபேர் இரையான்கண் நோய்.  
+> வேண்டிய வேண்டியாங் கெய்தலால் செய்தவம் ஈண்டு முயலப் படும்.  
 >
-> *On modest temperance as pleasures pure, So pain attends the greedy epicure.*
+> *That what they wish may, as they wish, be won, By men on earth are works of painful 'penance' done.*
 
-*மருந்து · பொருட்பால்*  
-<sub>Kural #946 · May 28, 2026</sub>
+*தவம் · அறத்துப்பால்*  
+<sub>Kural #265 · May 29, 2026</sub>
 <!-- KURAL:END -->
 
 
