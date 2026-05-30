@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> வேண்டிய வேண்டியாங் கெய்தலால் செய்தவம் ஈண்டு முயலப் படும்.  
+> உள்ளத்தார் காத லவரால் உள்ளிநீ யாருழைச் சேறியென் நெஞ்சு.  
 >
-> *That what they wish may, as they wish, be won, By men on earth are works of painful 'penance' done.*
+> *My heart! my lover lives within my mind; Roaming, whom dost thou think to find?*
 
-*தவம் · அறத்துப்பால்*  
-<sub>Kural #265 · May 29, 2026</sub>
+*நெஞ்சொடுகிளத்தல் · காமத்துப்பால்*  
+<sub>Kural #1249 · May 30, 2026</sub>
 <!-- KURAL:END -->
 
 
