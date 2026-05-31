@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> உள்ளத்தார் காத லவரால் உள்ளிநீ யாருழைச் சேறியென் நெஞ்சு.  
+> கருமணியிற் பாவாய்நீ போதாயாம் வீழும் திருநுதற்கு இல்லை இடம்.  
 >
-> *My heart! my lover lives within my mind; Roaming, whom dost thou think to find?*
+> *For her with beauteous brow, the maid I love, there place is none; To give her image room, O pupil of mine eye, begone!*
 
-*நெஞ்சொடுகிளத்தல் · காமத்துப்பால்*  
-<sub>Kural #1249 · May 30, 2026</sub>
+*காதற்சிறப்புரைத்தல் · காமத்துப்பால்*  
+<sub>Kural #1123 · May 31, 2026</sub>
 <!-- KURAL:END -->
 
 
