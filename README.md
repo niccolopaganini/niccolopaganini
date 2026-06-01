@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> கருமணியிற் பாவாய்நீ போதாயாம் வீழும் திருநுதற்கு இல்லை இடம்.  
+> அடுக்கி வரினும் அழிவிலான் உற்ற இடுக்கண் இடுக்கட் படும்.  
 >
-> *For her with beauteous brow, the maid I love, there place is none; To give her image room, O pupil of mine eye, begone!*
+> *When griefs press on, but fail to crush the patient heart, Then griefs defeated, put to grief, depart.*
 
-*காதற்சிறப்புரைத்தல் · காமத்துப்பால்*  
-<sub>Kural #1123 · May 31, 2026</sub>
+*இடுக்கணழியாமை · பொருட்பால்*  
+<sub>Kural #625 · June 01, 2026</sub>
 <!-- KURAL:END -->
 
 
