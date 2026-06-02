@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> அடுக்கி வரினும் அழிவிலான் உற்ற இடுக்கண் இடுக்கட் படும்.  
+> இடும்பைக்கே கொள்கலம் கொல்லோ குடும்பத்தைக் குற்ற மறைப்பான் உடம்பு.  
 >
-> *When griefs press on, but fail to crush the patient heart, Then griefs defeated, put to grief, depart.*
+> *Is not his body vase that various sorrows fill, Who would his household screen from every ill?*
 
-*இடுக்கணழியாமை · பொருட்பால்*  
-<sub>Kural #625 · June 01, 2026</sub>
+*குடிசெயல்வகை · பொருட்பால்*  
+<sub>Kural #1029 · June 02, 2026</sub>
 <!-- KURAL:END -->
 
 
