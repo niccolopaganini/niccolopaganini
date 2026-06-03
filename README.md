@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> இடும்பைக்கே கொள்கலம் கொல்லோ குடும்பத்தைக் குற்ற மறைப்பான் உடம்பு.  
+> கருவியும் காலமும் செய்கையும் செய்யும் அருவினையும் மாண்டது அமைச்சு.  
 >
-> *Is not his body vase that various sorrows fill, Who would his household screen from every ill?*
+> *A minister is he who grasps, with wisdom large, Means, time, work's mode, and functions rare he must discharge.*
 
-*குடிசெயல்வகை · பொருட்பால்*  
-<sub>Kural #1029 · June 02, 2026</sub>
+*அமைச்சு · பொருட்பால்*  
+<sub>Kural #631 · June 03, 2026</sub>
 <!-- KURAL:END -->
 
 
