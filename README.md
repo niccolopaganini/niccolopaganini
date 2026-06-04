@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> கருவியும் காலமும் செய்கையும் செய்யும் அருவினையும் மாண்டது அமைச்சு.  
+> தற்காத்துத் தற்கொண்டாற் பேணித் தகைசான்ற சொற்காத்துச் சோர்விலாள் பெண்.  
 >
-> *A minister is he who grasps, with wisdom large, Means, time, work's mode, and functions rare he must discharge.*
+> *Who guards herself, for husband's comfort cares, her household's fame, In perfect wise with sleepless soul preserves, -give her a woman's name.*
 
-*அமைச்சு · பொருட்பால்*  
-<sub>Kural #631 · June 03, 2026</sub>
+*வாழ்க்கைத் துணைநலம் · அறத்துப்பால்*  
+<sub>Kural #56 · June 04, 2026</sub>
 <!-- KURAL:END -->
 
 
