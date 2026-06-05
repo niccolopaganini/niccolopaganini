@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> தற்காத்துத் தற்கொண்டாற் பேணித் தகைசான்ற சொற்காத்துச் சோர்விலாள் பெண்.  
+> அவாஎன்ப எல்லா உயிர்க்கும் எஞ்ஞான்றும் தவாஅப் பிறப்பீனும் வித்து.  
 >
-> *Who guards herself, for husband's comfort cares, her household's fame, In perfect wise with sleepless soul preserves, -give her a woman's name.*
+> *The wise declare, through all the days, to every living thing. That ceaseless round of birth from seed of strong desire doth spring.*
 
-*வாழ்க்கைத் துணைநலம் · அறத்துப்பால்*  
-<sub>Kural #56 · June 04, 2026</sub>
+*அவாவறுத்தல் · அறத்துப்பால்*  
+<sub>Kural #361 · June 05, 2026</sub>
 <!-- KURAL:END -->
 
 
