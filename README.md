@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> அவாஎன்ப எல்லா உயிர்க்கும் எஞ்ஞான்றும் தவாஅப் பிறப்பீனும் வித்து.  
+> சினத்தைப் பொருளென்று கொண்டவன் கேடு நிலத்தறைந்தான் கைபிழையா தற்று.  
 >
-> *The wise declare, through all the days, to every living thing. That ceaseless round of birth from seed of strong desire doth spring.*
+> *The hand that smites the earth unfailing feels the sting; So perish they who nurse their wrath as noble thing.*
 
-*அவாவறுத்தல் · அறத்துப்பால்*  
-<sub>Kural #361 · June 05, 2026</sub>
+*வெகுளாமை · அறத்துப்பால்*  
+<sub>Kural #307 · June 06, 2026</sub>
 <!-- KURAL:END -->
 
 
