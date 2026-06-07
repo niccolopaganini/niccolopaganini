@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> சினத்தைப் பொருளென்று கொண்டவன் கேடு நிலத்தறைந்தான் கைபிழையா தற்று.  
+> வீழுநர் வீழப் படுவார்க்கு அமையுமே வாழுநம் என்னும் செருக்கு.  
 >
-> *The hand that smites the earth unfailing feels the sting; So perish they who nurse their wrath as noble thing.*
+> *Who love and are beloved to them alone Belongs the boast, 'We've made life's very joys our own.'*
 
-*வெகுளாமை · அறத்துப்பால்*  
-<sub>Kural #307 · June 06, 2026</sub>
+*தனிப்படர்மிகுதி · காமத்துப்பால்*  
+<sub>Kural #1193 · June 07, 2026</sub>
 <!-- KURAL:END -->
 
 
