@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> வீழுநர் வீழப் படுவார்க்கு அமையுமே வாழுநம் என்னும் செருக்கு.  
+> துறந்தாரின் தூய்மை உடையர் இறந்தார்வாய் இன்னாச்சொல் நோற்கிற் பவர்.  
 >
-> *Who love and are beloved to them alone Belongs the boast, 'We've made life's very joys our own.'*
+> *They who transgressors' evil words endure With patience, are as stern ascetics pure.*
 
-*தனிப்படர்மிகுதி · காமத்துப்பால்*  
-<sub>Kural #1193 · June 07, 2026</sub>
+*பொறையுடைமை · அறத்துப்பால்*  
+<sub>Kural #159 · June 08, 2026</sub>
 <!-- KURAL:END -->
 
 
