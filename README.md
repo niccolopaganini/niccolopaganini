@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> துறந்தாரின் தூய்மை உடையர் இறந்தார்வாய் இன்னாச்சொல் நோற்கிற் பவர்.  
+> உறுப்பமைந்து ஊறஞ்சா வெல்படை வேந்தன் வெறுக்கையுள் எல்லாம் தலை.  
 >
-> *They who transgressors' evil words endure With patience, are as stern ascetics pure.*
+> *A conquering host, complete in all its limbs, that fears no wound, Mid treasures of the king is chiefest found.*
 
-*பொறையுடைமை · அறத்துப்பால்*  
-<sub>Kural #159 · June 08, 2026</sub>
+*படைமாட்சி · பொருட்பால்*  
+<sub>Kural #761 · June 09, 2026</sub>
 <!-- KURAL:END -->
 
 
