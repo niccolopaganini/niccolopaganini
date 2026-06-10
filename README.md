@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> உறுப்பமைந்து ஊறஞ்சா வெல்படை வேந்தன் வெறுக்கையுள் எல்லாம் தலை.  
+> விருந்து புறத்ததாத் தானுண்டல் சாவா மருந்தெனினும் வேண்டற்பாற் றன்று.  
 >
-> *A conquering host, complete in all its limbs, that fears no wound, Mid treasures of the king is chiefest found.*
+> *Though food of immortality should crown the board, Feasting alone, the guests without unfed, is thing abhorred.*
 
-*படைமாட்சி · பொருட்பால்*  
-<sub>Kural #761 · June 09, 2026</sub>
+*விருந்தோம்பல் · அறத்துப்பால்*  
+<sub>Kural #82 · June 10, 2026</sub>
 <!-- KURAL:END -->
 
 
