@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> விருந்து புறத்ததாத் தானுண்டல் சாவா மருந்தெனினும் வேண்டற்பாற் றன்று.  
+> கண்டது மன்னும் ஒருநாள் அலர்மன்னும் திங்களைப் பாம்புகொண் டற்று.  
 >
-> *Though food of immortality should crown the board, Feasting alone, the guests without unfed, is thing abhorred.*
+> *I saw him but one single day: rumour spreads soon As darkness, when the dragon seizes on the moon.*
 
-*விருந்தோம்பல் · அறத்துப்பால்*  
-<sub>Kural #82 · June 10, 2026</sub>
+*அலரறிவுறுத்தல் · காமத்துப்பால்*  
+<sub>Kural #1146 · June 11, 2026</sub>
 <!-- KURAL:END -->
 
 
