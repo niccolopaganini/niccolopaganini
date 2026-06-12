@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> கண்டது மன்னும் ஒருநாள் அலர்மன்னும் திங்களைப் பாம்புகொண் டற்று.  
+> என்னைமுன் நில்லன்மின் தெவ்விர் பலரென்னை முன்நின்று கல்நின் றவர்.  
 >
-> *I saw him but one single day: rumour spreads soon As darkness, when the dragon seizes on the moon.*
+> *Ye foes! stand not before my lord! for many a one Who did my lord withstand, now stands in stone!*
 
-*அலரறிவுறுத்தல் · காமத்துப்பால்*  
-<sub>Kural #1146 · June 11, 2026</sub>
+*படைச்செருக்கு · பொருட்பால்*  
+<sub>Kural #771 · June 12, 2026</sub>
 <!-- KURAL:END -->
 
 
