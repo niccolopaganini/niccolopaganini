@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> என்னைமுன் நில்லன்மின் தெவ்விர் பலரென்னை முன்நின்று கல்நின் றவர்.  
+> நன்றி மறப்பது நன்றன்று நன்றல்லது அன்றே மறப்பது நன்று.  
 >
-> *Ye foes! stand not before my lord! for many a one Who did my lord withstand, now stands in stone!*
+> *'Tis never good to let the thought of good things done thee pass away; Of things not good, 'tis good to rid thy memory that very day.*
 
-*படைச்செருக்கு · பொருட்பால்*  
-<sub>Kural #771 · June 12, 2026</sub>
+*செய்ந்நன்றி அறிதல் · அறத்துப்பால்*  
+<sub>Kural #108 · June 13, 2026</sub>
 <!-- KURAL:END -->
 
 
