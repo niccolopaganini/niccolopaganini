@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> நன்றி மறப்பது நன்றன்று நன்றல்லது அன்றே மறப்பது நன்று.  
+> வாணிகம் செய்வார்க்கு வாணிகம் பேணிப் பிறவும் தமபோல் செயின்.  
 >
-> *'Tis never good to let the thought of good things done thee pass away; Of things not good, 'tis good to rid thy memory that very day.*
+> *As thriving trader is the trader known, Who guards another's interests as his own.*
 
-*செய்ந்நன்றி அறிதல் · அறத்துப்பால்*  
-<sub>Kural #108 · June 13, 2026</sub>
+*நடுவு நிலைமை · அறத்துப்பால்*  
+<sub>Kural #120 · June 14, 2026</sub>
 <!-- KURAL:END -->
 
 
