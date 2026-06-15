@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> வாணிகம் செய்வார்க்கு வாணிகம் பேணிப் பிறவும் தமபோல் செயின்.  
+> உழுவார் உலகத்தார்க்கு ஆணிஅஃ தாற்றாது எழுவாரை எல்லாம் பொறுத்து.  
 >
-> *As thriving trader is the trader known, Who guards another's interests as his own.*
+> *The ploughers are the linch-pin of the world; they bear Them up who other works perform, too weak its toils to share.*
 
-*நடுவு நிலைமை · அறத்துப்பால்*  
-<sub>Kural #120 · June 14, 2026</sub>
+*உழவு · பொருட்பால்*  
+<sub>Kural #1032 · June 15, 2026</sub>
 <!-- KURAL:END -->
 
 
