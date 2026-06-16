@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> உழுவார் உலகத்தார்க்கு ஆணிஅஃ தாற்றாது எழுவாரை எல்லாம் பொறுத்து.  
+> வகையறிந்து வல்லவை வாய்சோரார் சொல்லின் தொகையறிந்த தூய்மை யவர்.  
 >
-> *The ploughers are the linch-pin of the world; they bear Them up who other works perform, too weak its toils to share.*
+> *Men, pure in heart, who know of words the varied force, The mighty council's moods discern, nor fail in their discourse.*
 
-*உழவு · பொருட்பால்*  
-<sub>Kural #1032 · June 15, 2026</sub>
+*அவையஞ்சாமை · பொருட்பால்*  
+<sub>Kural #721 · June 16, 2026</sub>
 <!-- KURAL:END -->
 
 
