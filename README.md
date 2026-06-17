@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> வகையறிந்து வல்லவை வாய்சோரார் சொல்லின் தொகையறிந்த தூய்மை யவர்.  
+> கொடுத்தலும் இன்சொலும் ஆற்றின் அடுக்கிய சுற்றத்தால் சுற்றப் படும்.  
 >
-> *Men, pure in heart, who know of words the varied force, The mighty council's moods discern, nor fail in their discourse.*
+> *Who knows the use of pleasant words, and liberal gifts can give, Connections, heaps of them, surrounding him shall live.*
 
-*அவையஞ்சாமை · பொருட்பால்*  
-<sub>Kural #721 · June 16, 2026</sub>
+*சுற்றந்தழால் · பொருட்பால்*  
+<sub>Kural #525 · June 17, 2026</sub>
 <!-- KURAL:END -->
 
 
