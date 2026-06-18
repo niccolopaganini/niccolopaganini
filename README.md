@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> கொடுத்தலும் இன்சொலும் ஆற்றின் அடுக்கிய சுற்றத்தால் சுற்றப் படும்.  
+> கொடியார் கொடுமையின் தாம்கொடிய விந்நாள் நெடிய கழியும் இரா.  
 >
-> *Who knows the use of pleasant words, and liberal gifts can give, Connections, heaps of them, surrounding him shall live.*
+> *More cruel than the cruelty of him, the cruel one, In these sad times are lengthening hours of night I watch alone.*
 
-*சுற்றந்தழால் · பொருட்பால்*  
-<sub>Kural #525 · June 17, 2026</sub>
+*படர்மெலிந்திரங்கல் · காமத்துப்பால்*  
+<sub>Kural #1169 · June 18, 2026</sub>
 <!-- KURAL:END -->
 
 
