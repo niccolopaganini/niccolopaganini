@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> கொடியார் கொடுமையின் தாம்கொடிய விந்நாள் நெடிய கழியும் இரா.  
+> கண்ணின்று கண்ணறச் சொல்லினும் சொல்லற்க முன்னின்று பின்நோக்காச் சொல்.  
 >
-> *More cruel than the cruelty of him, the cruel one, In these sad times are lengthening hours of night I watch alone.*
+> *In presence though unkindly words you speak, say not In absence words whose ill result exceeds your thought.*
 
-*படர்மெலிந்திரங்கல் · காமத்துப்பால்*  
-<sub>Kural #1169 · June 18, 2026</sub>
+*புறங்கூறாமை · அறத்துப்பால்*  
+<sub>Kural #184 · June 19, 2026</sub>
 <!-- KURAL:END -->
 
 
