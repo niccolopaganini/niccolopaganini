@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> கண்ணின்று கண்ணறச் சொல்லினும் சொல்லற்க முன்னின்று பின்நோக்காச் சொல்.  
+> நகையுள்ளும் இன்னா திகழ்ச்சி பகையுள்ளும் பண்புள பாடறிவார் மாட்டு.  
 >
-> *In presence though unkindly words you speak, say not In absence words whose ill result exceeds your thought.*
+> *Contempt is evil though in sport. They who man's nature know, E'en in their wrath, a courteous mind will show.*
 
-*புறங்கூறாமை · அறத்துப்பால்*  
-<sub>Kural #184 · June 19, 2026</sub>
+*பண்புடைமை · பொருட்பால்*  
+<sub>Kural #995 · June 20, 2026</sub>
 <!-- KURAL:END -->
 
 
