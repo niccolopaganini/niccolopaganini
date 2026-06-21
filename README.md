@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> நகையுள்ளும் இன்னா திகழ்ச்சி பகையுள்ளும் பண்புள பாடறிவார் மாட்டு.  
+> அற்றார் அழிபசி தீர்த்தல் அஃதொருவன் பெற்றான் பொருள்வைப் புழி.  
 >
-> *Contempt is evil though in sport. They who man's nature know, E'en in their wrath, a courteous mind will show.*
+> *Let man relieve the wasting hunger men endure; For treasure gained thus finds he treasure-house secure.*
 
-*பண்புடைமை · பொருட்பால்*  
-<sub>Kural #995 · June 20, 2026</sub>
+*ஈகை · அறத்துப்பால்*  
+<sub>Kural #226 · June 21, 2026</sub>
 <!-- KURAL:END -->
 
 
