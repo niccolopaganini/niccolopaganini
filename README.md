@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> அற்றார் அழிபசி தீர்த்தல் அஃதொருவன் பெற்றான் பொருள்வைப் புழி.  
+> இலன்என்று தீயவை செய்யற்க செய்யின் இலனாகும் மற்றும் பெயர்த்து.  
 >
-> *Let man relieve the wasting hunger men endure; For treasure gained thus finds he treasure-house secure.*
+> *Make not thy poverty a plea for ill; Thy evil deeds will make thee poorer still.*
 
-*ஈகை · அறத்துப்பால்*  
-<sub>Kural #226 · June 21, 2026</sub>
+*தீவினையச்சம் · அறத்துப்பால்*  
+<sub>Kural #205 · June 22, 2026</sub>
 <!-- KURAL:END -->
 
 
