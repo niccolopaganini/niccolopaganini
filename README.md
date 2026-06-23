@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> இலன்என்று தீயவை செய்யற்க செய்யின் இலனாகும் மற்றும் பெயர்த்து.  
+> செய்வானை நாடி வினைநாடிக் காலத்தோடு எய்த உணர்ந்து செயல்.  
 >
-> *Make not thy poverty a plea for ill; Thy evil deeds will make thee poorer still.*
+> *Let king first ask, 'Who shall the deed perform?' and 'What the deed?' Of hour befitting both assured, let every work proceed.*
 
-*தீவினையச்சம் · அறத்துப்பால்*  
-<sub>Kural #205 · June 22, 2026</sub>
+*தெரிந்துவினையாடல் · பொருட்பால்*  
+<sub>Kural #516 · June 23, 2026</sub>
 <!-- KURAL:END -->
 
 
