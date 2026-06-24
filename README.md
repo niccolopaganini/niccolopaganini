@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> செய்வானை நாடி வினைநாடிக் காலத்தோடு எய்த உணர்ந்து செயல்.  
+> களவினால் ஆகிய ஆக்கம் அளவிறந்து ஆவது போலக் கெடும்.  
 >
-> *Let king first ask, 'Who shall the deed perform?' and 'What the deed?' Of hour befitting both assured, let every work proceed.*
+> *The gain that comes by fraud, although it seems to grow With limitless increase, to ruin swift shall go.*
 
-*தெரிந்துவினையாடல் · பொருட்பால்*  
-<sub>Kural #516 · June 23, 2026</sub>
+*கள்ளாமை · அறத்துப்பால்*  
+<sub>Kural #283 · June 24, 2026</sub>
 <!-- KURAL:END -->
 
 
