@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> களவினால் ஆகிய ஆக்கம் அளவிறந்து ஆவது போலக் கெடும்.  
+> கலங்காது கண்ட வினைக்கண் துளங்காது தூக்கங் கடிந்து செயல்.  
 >
-> *The gain that comes by fraud, although it seems to grow With limitless increase, to ruin swift shall go.*
+> *What clearly eye discerns as right, with steadfast will, And mind unslumbering, that should man fulfil.*
 
-*கள்ளாமை · அறத்துப்பால்*  
-<sub>Kural #283 · June 24, 2026</sub>
+*வினைத்திட்பம் · பொருட்பால்*  
+<sub>Kural #668 · June 25, 2026</sub>
 <!-- KURAL:END -->
 
 
