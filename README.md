@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> கலங்காது கண்ட வினைக்கண் துளங்காது தூக்கங் கடிந்து செயல்.  
+> வசையொழிய வாழ்வாரே வாழ்வார் இசையொழிய வாழ்வாரே வாழா தவர்.  
 >
-> *What clearly eye discerns as right, with steadfast will, And mind unslumbering, that should man fulfil.*
+> *Who live without reproach, them living men we deem; Who live without renown, live not, though living men they seem.*
 
-*வினைத்திட்பம் · பொருட்பால்*  
-<sub>Kural #668 · June 25, 2026</sub>
+*புகழ் · அறத்துப்பால்*  
+<sub>Kural #240 · June 26, 2026</sub>
 <!-- KURAL:END -->
 
 
