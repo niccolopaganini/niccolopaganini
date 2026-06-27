@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> வசையொழிய வாழ்வாரே வாழ்வார் இசையொழிய வாழ்வாரே வாழா தவர்.  
+> இறலீனும் எண்ணாது வெஃகின் விறல்ஈனும் வேண்டாமை என்னுஞ் செருக்கு.  
 >
-> *Who live without reproach, them living men we deem; Who live without renown, live not, though living men they seem.*
+> *From thoughtless lust of other's goods springs fatal ill, Greatness of soul that covets not shall triumph still.*
 
-*புகழ் · அறத்துப்பால்*  
-<sub>Kural #240 · June 26, 2026</sub>
+*வெஃகாமை · அறத்துப்பால்*  
+<sub>Kural #180 · June 27, 2026</sub>
 <!-- KURAL:END -->
 
 
