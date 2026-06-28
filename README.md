@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> இறலீனும் எண்ணாது வெஃகின் விறல்ஈனும் வேண்டாமை என்னுஞ் செருக்கு.  
+> நினைப்பவர் போன்று நினையார்கொல் தும்மல் சினைப்பது போன்று கெடும்.  
 >
-> *From thoughtless lust of other's goods springs fatal ill, Greatness of soul that covets not shall triumph still.*
+> *A fit of sneezing threatened, but it passed away; He seemed to think of me, but do his fancies stray?*
 
-*வெஃகாமை · அறத்துப்பால்*  
-<sub>Kural #180 · June 27, 2026</sub>
+*நினைந்தவர்புலம்பல் · காமத்துப்பால்*  
+<sub>Kural #1203 · June 28, 2026</sub>
 <!-- KURAL:END -->
 
 
