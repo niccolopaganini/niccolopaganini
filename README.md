@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> நினைப்பவர் போன்று நினையார்கொல் தும்மல் சினைப்பது போன்று கெடும்.  
+> சிறப்பொடு பூசனை செல்லாது வானம் வறக்குமேல் வானோர்க்கும் ஈண்டு.  
 >
-> *A fit of sneezing threatened, but it passed away; He seemed to think of me, but do his fancies stray?*
+> *If heaven grow dry, with feast and offering never more, Will men on earth the heavenly ones adore.*
 
-*நினைந்தவர்புலம்பல் · காமத்துப்பால்*  
-<sub>Kural #1203 · June 28, 2026</sub>
+*வான்சிறப்பு · அறத்துப்பால்*  
+<sub>Kural #18 · June 29, 2026</sub>
 <!-- KURAL:END -->
 
 
