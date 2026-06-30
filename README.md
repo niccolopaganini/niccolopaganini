@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> சிறப்பொடு பூசனை செல்லாது வானம் வறக்குமேல் வானோர்க்கும் ஈண்டு.  
+> ஏவவும் செய்கலான் தான்தேறான் அவ்வுயிர் போஒம் அளவுமோர் நோய்.  
 >
-> *If heaven grow dry, with feast and offering never more, Will men on earth the heavenly ones adore.*
+> *Advised, he heeds not; of himself knows nothing wise; This man's whole life is all one plague until he dies.*
 
-*வான்சிறப்பு · அறத்துப்பால்*  
-<sub>Kural #18 · June 29, 2026</sub>
+*புல்லறிவாண்மை · பொருட்பால்*  
+<sub>Kural #848 · June 30, 2026</sub>
 <!-- KURAL:END -->
 
 
