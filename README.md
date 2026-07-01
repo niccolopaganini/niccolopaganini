@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> ஏவவும் செய்கலான் தான்தேறான் அவ்வுயிர் போஒம் அளவுமோர் நோய்.  
+> முற்றியும் முற்றா தெறிந்தும் அறைப்படுத்தும் பற்றற் கரியது அரண்.  
 >
-> *Advised, he heeds not; of himself knows nothing wise; This man's whole life is all one plague until he dies.*
+> *A fort should be impregnable to foes who gird it round, Or aim there darts from far, or mine beneath the ground.*
 
-*புல்லறிவாண்மை · பொருட்பால்*  
-<sub>Kural #848 · June 30, 2026</sub>
+*அரண் · பொருட்பால்*  
+<sub>Kural #747 · July 01, 2026</sub>
 <!-- KURAL:END -->
 
 
