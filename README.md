@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> முற்றியும் முற்றா தெறிந்தும் அறைப்படுத்தும் பற்றற் கரியது அரண்.  
+> காமம் வெகுளி மயக்கம் இவ்முன்றன் நாமம் கெடக்கெடும் நோய்.  
 >
-> *A fort should be impregnable to foes who gird it round, Or aim there darts from far, or mine beneath the ground.*
+> *When lust and wrath and error's triple tyranny is o'er, Their very names for aye extinct, then pain shall be no more.*
 
-*அரண் · பொருட்பால்*  
-<sub>Kural #747 · July 01, 2026</sub>
+*மெய்யுணர்தல் · அறத்துப்பால்*  
+<sub>Kural #360 · July 02, 2026</sub>
 <!-- KURAL:END -->
 
 
