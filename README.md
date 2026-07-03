@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> காமம் வெகுளி மயக்கம் இவ்முன்றன் நாமம் கெடக்கெடும் நோய்.  
+> மற்றியான் என்னுளேன் மன்னோ அவரொடியான் உற்றநாள் உள்ள உளேன்.  
 >
-> *When lust and wrath and error's triple tyranny is o'er, Their very names for aye extinct, then pain shall be no more.*
+> *How live I yet? I live to ponder o'er The days of bliss with him that are no more.*
 
-*மெய்யுணர்தல் · அறத்துப்பால்*  
-<sub>Kural #360 · July 02, 2026</sub>
+*நினைந்தவர்புலம்பல் · காமத்துப்பால்*  
+<sub>Kural #1206 · July 03, 2026</sub>
 <!-- KURAL:END -->
 
 
