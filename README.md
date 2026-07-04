@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> மற்றியான் என்னுளேன் மன்னோ அவரொடியான் உற்றநாள் உள்ள உளேன்.  
+> மனத்தின் அமையா தவரை எனைத்தொன்றும் சொல்லினால் தேறற்பாற்று அன்று.  
 >
-> *How live I yet? I live to ponder o'er The days of bliss with him that are no more.*
+> *When minds are not in unison, 'its never; just, In any words men speak to put your trust.*
 
-*நினைந்தவர்புலம்பல் · காமத்துப்பால்*  
-<sub>Kural #1206 · July 03, 2026</sub>
+*கூடாநட்பு · பொருட்பால்*  
+<sub>Kural #825 · July 04, 2026</sub>
 <!-- KURAL:END -->
 
 
