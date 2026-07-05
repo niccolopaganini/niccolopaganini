@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> மனத்தின் அமையா தவரை எனைத்தொன்றும் சொல்லினால் தேறற்பாற்று அன்று.  
+> யாதானும் நாடாமால் ஊராமால் என்னொருவன் சாந்துணையுங் கல்லாத வாறு.  
 >
-> *When minds are not in unison, 'its never; just, In any words men speak to put your trust.*
+> *The learned make each land their own, in every city find a home; Who, till they die; learn nought, along what weary ways they roam!*
 
-*கூடாநட்பு · பொருட்பால்*  
-<sub>Kural #825 · July 04, 2026</sub>
+*கல்வி · பொருட்பால்*  
+<sub>Kural #397 · July 05, 2026</sub>
 <!-- KURAL:END -->
 
 
