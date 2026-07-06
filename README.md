@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> யாதானும் நாடாமால் ஊராமால் என்னொருவன் சாந்துணையுங் கல்லாத வாறு.  
+> காணுங்கால் காணேன் தவறாய காணாக்கால் காணேன் தவறல் லவை.  
 >
-> *The learned make each land their own, in every city find a home; Who, till they die; learn nought, along what weary ways they roam!*
+> *When him I see, to all his faults I 'm blind; But when I see him not, nothing but faults I find.*
 
-*கல்வி · பொருட்பால்*  
-<sub>Kural #397 · July 05, 2026</sub>
+*புணர்ச்சிவிதும்பல் · காமத்துப்பால்*  
+<sub>Kural #1286 · July 06, 2026</sub>
 <!-- KURAL:END -->
 
 
