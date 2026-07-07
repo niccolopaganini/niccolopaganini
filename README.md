@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> காணுங்கால் காணேன் தவறாய காணாக்கால் காணேன் தவறல் லவை.  
+> உளரெனினும் இல்லாரொடு ஒப்பர் களன்அஞ்சிக் கற்ற செலச்சொல்லா தார்.  
 >
-> *When him I see, to all his faults I 'm blind; But when I see him not, nothing but faults I find.*
+> *Who what they've learned, in penetrating words know not to say, The council fearing, though they live, as dead are they.*
 
-*புணர்ச்சிவிதும்பல் · காமத்துப்பால்*  
-<sub>Kural #1286 · July 06, 2026</sub>
+*அவையஞ்சாமை · பொருட்பால்*  
+<sub>Kural #730 · July 07, 2026</sub>
 <!-- KURAL:END -->
 
 
