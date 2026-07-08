@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> உளரெனினும் இல்லாரொடு ஒப்பர் களன்அஞ்சிக் கற்ற செலச்சொல்லா தார்.  
+> செயற்கை அற஧ந்தக் கடைத்தும் உலகத்து இயற்கை அறிந்து செயல்.  
 >
-> *Who what they've learned, in penetrating words know not to say, The council fearing, though they live, as dead are they.*
+> *Though knowing all that books can teach, 'tis truest tact To follow common sense of men in act.*
 
-*அவையஞ்சாமை · பொருட்பால்*  
-<sub>Kural #730 · July 07, 2026</sub>
+*அமைச்சு · பொருட்பால்*  
+<sub>Kural #637 · July 08, 2026</sub>
 <!-- KURAL:END -->
 
 
