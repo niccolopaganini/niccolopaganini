@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> செயற்கை அற஧ந்தக் கடைத்தும் உலகத்து இயற்கை அறிந்து செயல்.  
+> நிலைஅஞ்சி நீத்தாருள் எல்லாம் கொலைஅஞ்சிக் கொல்லாமை சூழ்வான் தலை.  
 >
-> *Though knowing all that books can teach, 'tis truest tact To follow common sense of men in act.*
+> *Of those who 'being' dread, and all renounce, the chief are they, Who dreading crime of slaughter, study nought to slay.*
 
-*அமைச்சு · பொருட்பால்*  
-<sub>Kural #637 · July 08, 2026</sub>
+*கொல்லாமை · அறத்துப்பால்*  
+<sub>Kural #325 · July 09, 2026</sub>
 <!-- KURAL:END -->
 
 
