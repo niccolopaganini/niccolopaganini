@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> நிலைஅஞ்சி நீத்தாருள் எல்லாம் கொலைஅஞ்சிக் கொல்லாமை சூழ்வான் தலை.  
+> மோப்பக் குழையும் அனிச்சம் முகந்திரிந்து நோக்கக் குநழ்யும் விருந்து.  
 >
-> *Of those who 'being' dread, and all renounce, the chief are they, Who dreading crime of slaughter, study nought to slay.*
+> *The flower of 'Anicha' withers away, If you do but its fragrance inhale; If the face of the host cold welcome convey, The guest's heart within him will fail.*
 
-*கொல்லாமை · அறத்துப்பால்*  
-<sub>Kural #325 · July 09, 2026</sub>
+*விருந்தோம்பல் · அறத்துப்பால்*  
+<sub>Kural #90 · July 10, 2026</sub>
 <!-- KURAL:END -->
 
 
