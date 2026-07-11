@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> மோப்பக் குழையும் அனிச்சம் முகந்திரிந்து நோக்கக் குநழ்யும் விருந்து.  
+> அறனறிந்து வெஃகா அறிவுடையார்ச் சேரும் திறன்அறிந் தாங்கே திரு.  
 >
-> *The flower of 'Anicha' withers away, If you do but its fragrance inhale; If the face of the host cold welcome convey, The guest's heart within him will fail.*
+> *Good fortune draws anigh in helpful time of need, To him who, schooled in virtue, guards his soul from greed.*
 
-*விருந்தோம்பல் · அறத்துப்பால்*  
-<sub>Kural #90 · July 10, 2026</sub>
+*வெஃகாமை · அறத்துப்பால்*  
+<sub>Kural #179 · July 11, 2026</sub>
 <!-- KURAL:END -->
 
 
