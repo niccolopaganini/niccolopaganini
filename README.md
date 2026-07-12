@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> அறனறிந்து வெஃகா அறிவுடையார்ச் சேரும் திறன்அறிந் தாங்கே திரு.  
+> களவின்கண் கன்றிய காதல் விளைவின்கண் வீயா விழுமம் தரும்.  
 >
-> *Good fortune draws anigh in helpful time of need, To him who, schooled in virtue, guards his soul from greed.*
+> *The lust inveterate of fraudful gain, Yields as its fruit undying pain.*
 
-*வெஃகாமை · அறத்துப்பால்*  
-<sub>Kural #179 · July 11, 2026</sub>
+*கள்ளாமை · அறத்துப்பால்*  
+<sub>Kural #284 · July 12, 2026</sub>
 <!-- KURAL:END -->
 
 
