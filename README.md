@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> களவின்கண் கன்றிய காதல் விளைவின்கண் வீயா விழுமம் தரும்.  
+> நச்சப் படாதவன் செல்வம் நடுவூருள் நச்சு மரம்பழுத் தற்று.  
 >
-> *The lust inveterate of fraudful gain, Yields as its fruit undying pain.*
+> *When he whom no man loves exults in great prosperity, 'Tis as when fruits in midmost of the town some poisonous tree.*
 
-*கள்ளாமை · அறத்துப்பால்*  
-<sub>Kural #284 · July 12, 2026</sub>
+*நன்றியில்செல்வம் · பொருட்பால்*  
+<sub>Kural #1008 · July 13, 2026</sub>
 <!-- KURAL:END -->
 
 
