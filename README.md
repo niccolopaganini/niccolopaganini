@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> நச்சப் படாதவன் செல்வம் நடுவூருள் நச்சு மரம்பழுத் தற்று.  
+> உள்ளுவன் மன்யான் உரைப்பது அவர்திறமால் கள்ளம் பிறவோ பசப்பு.  
 >
-> *When he whom no man loves exults in great prosperity, 'Tis as when fruits in midmost of the town some poisonous tree.*
+> *I meditate his words, his worth is theme of all I say, This sickly hue is false that would my trust betray.*
 
-*நன்றியில்செல்வம் · பொருட்பால்*  
-<sub>Kural #1008 · July 13, 2026</sub>
+*பசப்புறுபருவரல் · காமத்துப்பால்*  
+<sub>Kural #1184 · July 14, 2026</sub>
 <!-- KURAL:END -->
 
 
