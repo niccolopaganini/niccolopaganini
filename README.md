@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> உள்ளுவன் மன்யான் உரைப்பது அவர்திறமால் கள்ளம் பிறவோ பசப்பு.  
+> உழவினார் கைம்மடங்கின் இல்லை விழைவதூஉம் விட்டேம்என் பார்க்கும் நிலை.  
 >
-> *I meditate his words, his worth is theme of all I say, This sickly hue is false that would my trust betray.*
+> *For those who 've left what all men love no place is found, When they with folded hands remain who till the ground.*
 
-*பசப்புறுபருவரல் · காமத்துப்பால்*  
-<sub>Kural #1184 · July 14, 2026</sub>
+*உழவு · பொருட்பால்*  
+<sub>Kural #1036 · July 15, 2026</sub>
 <!-- KURAL:END -->
 
 
