@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> உழவினார் கைம்மடங்கின் இல்லை விழைவதூஉம் விட்டேம்என் பார்க்கும் நிலை.  
+> அற்றம் மறைத்தலோ புல்லறிவு தம்வயின் குற்றம் மறையா வழி.  
 >
-> *For those who 've left what all men love no place is found, When they with folded hands remain who till the ground.*
+> *Fools are they who their nakedness conceal, And yet their faults unveiled reveal.*
 
-*உழவு · பொருட்பால்*  
-<sub>Kural #1036 · July 15, 2026</sub>
+*புல்லறிவாண்மை · பொருட்பால்*  
+<sub>Kural #846 · July 16, 2026</sub>
 <!-- KURAL:END -->
 
 
