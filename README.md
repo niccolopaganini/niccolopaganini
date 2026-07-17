@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> அற்றம் மறைத்தலோ புல்லறிவு தம்வயின் குற்றம் மறையா வழி.  
+> உலகம் தழீஇய தொட்பம் மலர்தலும் கூம்பலும் இல்ல தறிவு.  
 >
-> *Fools are they who their nakedness conceal, And yet their faults unveiled reveal.*
+> *Wisdom embraces frank the world, to no caprice exposed; Unlike the lotus flower, now opened wide, now petals strictly closed.*
 
-*புல்லறிவாண்மை · பொருட்பால்*  
-<sub>Kural #846 · July 16, 2026</sub>
+*அறிவுடைமை · பொருட்பால்*  
+<sub>Kural #425 · July 17, 2026</sub>
 <!-- KURAL:END -->
 
 
