@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> உலகம் தழீஇய தொட்பம் மலர்தலும் கூம்பலும் இல்ல தறிவு.  
+> பகைபாவம் அச்சம் பழியென நான்கும் இகவாவாம் இல்லிறப்பான் கண்.  
 >
-> *Wisdom embraces frank the world, to no caprice exposed; Unlike the lotus flower, now opened wide, now petals strictly closed.*
+> *Who home ivades, from him pass nevermore, Hatred and sin, fear, foul disgrace; these four.*
 
-*அறிவுடைமை · பொருட்பால்*  
-<sub>Kural #425 · July 17, 2026</sub>
+*பிறனில் விழையாமை · அறத்துப்பால்*  
+<sub>Kural #146 · July 18, 2026</sub>
 <!-- KURAL:END -->
 
 
