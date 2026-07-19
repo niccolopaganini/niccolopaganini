@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> பகைபாவம் அச்சம் பழியென நான்கும் இகவாவாம் இல்லிறப்பான் கண்.  
+> அழிவதூஉம் ஆவதூஉம் ஆகி வழிபயக்கும் ஊதியமும் சூழ்ந்து செயல்.  
 >
-> *Who home ivades, from him pass nevermore, Hatred and sin, fear, foul disgrace; these four.*
+> *Expenditure, return, and profit of the deed In time to come; weigh these- than to the act proceed.*
 
-*பிறனில் விழையாமை · அறத்துப்பால்*  
-<sub>Kural #146 · July 18, 2026</sub>
+*தெரிந்துசெயல்வகை · பொருட்பால்*  
+<sub>Kural #461 · July 19, 2026</sub>
 <!-- KURAL:END -->
 
 
