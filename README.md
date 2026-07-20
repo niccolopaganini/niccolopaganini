@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> அழிவதூஉம் ஆவதூஉம் ஆகி வழிபயக்கும் ஊதியமும் சூழ்ந்து செயல்.  
+> நனவினால் நம்நீத்தார் என்பர் கனவினால் காணார்கொல் இவ்வூ ரவர்.  
 >
-> *Expenditure, return, and profit of the deed In time to come; weigh these- than to the act proceed.*
+> *They say, that he in waking hours has left me lone; In dreams they surely see him not,- these people of the town;*
 
-*தெரிந்துசெயல்வகை · பொருட்பால்*  
-<sub>Kural #461 · July 19, 2026</sub>
+*கனவுநிலையுரைத்தல் · காமத்துப்பால்*  
+<sub>Kural #1220 · July 20, 2026</sub>
 <!-- KURAL:END -->
 
 
