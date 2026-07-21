@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> நனவினால் நம்நீத்தார் என்பர் கனவினால் காணார்கொல் இவ்வூ ரவர்.  
+> கல்லான் வெகுளும் சிறுபொருள் எஞ்ஞான்றும் ஒல்லானை ஒல்லா தொளி.  
 >
-> *They say, that he in waking hours has left me lone; In dreams they surely see him not,- these people of the town;*
+> *The task of angry war with men unlearned in virtue's lore Who will not meet, glory shall meet him never more.*
 
-*கனவுநிலையுரைத்தல் · காமத்துப்பால்*  
-<sub>Kural #1220 · July 20, 2026</sub>
+*பகைமாட்சி · பொருட்பால்*  
+<sub>Kural #870 · July 21, 2026</sub>
 <!-- KURAL:END -->
 
 
