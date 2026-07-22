@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> கல்லான் வெகுளும் சிறுபொருள் எஞ்ஞான்றும் ஒல்லானை ஒல்லா தொளி.  
+> அங்கணத்துள் உக்க அமிழ்தற்றால் தங்கணத்தார் அல்லார்முன் கோட்டி கொளல்.  
 >
-> *The task of angry war with men unlearned in virtue's lore Who will not meet, glory shall meet him never more.*
+> *Ambrosia in the sewer spilt, is word Spoken in presence of the alien herd.*
 
-*பகைமாட்சி · பொருட்பால்*  
-<sub>Kural #870 · July 21, 2026</sub>
+*அவையறிதல் · பொருட்பால்*  
+<sub>Kural #720 · July 22, 2026</sub>
 <!-- KURAL:END -->
 
 
