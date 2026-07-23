@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> அங்கணத்துள் உக்க அமிழ்தற்றால் தங்கணத்தார் அல்லார்முன் கோட்டி கொளல்.  
+> குறிப்பிற் குறிப்புணர் வாரை உறுப்பினுள் யாது கொடுத்தும் கொளல்.  
 >
-> *Ambrosia in the sewer spilt, is word Spoken in presence of the alien herd.*
+> *Who by the sign the signs interprets plain, Give any member up his aid to gain.*
 
-*அவையறிதல் · பொருட்பால்*  
-<sub>Kural #720 · July 22, 2026</sub>
+*குறிப்பறிதல் · பொருட்பால்*  
+<sub>Kural #703 · July 23, 2026</sub>
 <!-- KURAL:END -->
 
 
