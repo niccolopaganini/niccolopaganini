@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> குறிப்பிற் குறிப்புணர் வாரை உறுப்பினுள் யாது கொடுத்தும் கொளல்.  
+> நன்றிக்கு வித்தாகும் நல்லொழுக்கம் தீயொழுக்கம் என்றும் இடும்பை தரும்.  
 >
-> *Who by the sign the signs interprets plain, Give any member up his aid to gain.*
+> *'Decorum true' observed a seed of good will be; 'Decorum's breach' will sorrow yield eternally.*
 
-*குறிப்பறிதல் · பொருட்பால்*  
-<sub>Kural #703 · July 23, 2026</sub>
+*ஒழுக்கமுடைமை · அறத்துப்பால்*  
+<sub>Kural #138 · July 24, 2026</sub>
 <!-- KURAL:END -->
 
 
