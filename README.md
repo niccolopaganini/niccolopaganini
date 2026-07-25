@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> நன்றிக்கு வித்தாகும் நல்லொழுக்கம் தீயொழுக்கம் என்றும் இடும்பை தரும்.  
+> முகம்நோக்கி நிற்க அமையும் அகம்நோக்கி உற்ற துணர்வார்ப் பெறின்.  
 >
-> *'Decorum true' observed a seed of good will be; 'Decorum's breach' will sorrow yield eternally.*
+> *To see the face is quite enough, in presence brought, When men can look within and know the lurking thought.*
 
-*ஒழுக்கமுடைமை · அறத்துப்பால்*  
-<sub>Kural #138 · July 24, 2026</sub>
+*குறிப்பறிதல் · பொருட்பால்*  
+<sub>Kural #708 · July 25, 2026</sub>
 <!-- KURAL:END -->
 
 
