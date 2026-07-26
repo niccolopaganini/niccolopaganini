@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> முகம்நோக்கி நிற்க அமையும் அகம்நோக்கி உற்ற துணர்வார்ப் பெறின்.  
+> வான்நின்று உலகம் வழங்கி வருதலால் தான்அமிழ்தம் என்றுணரற் பாற்று.  
 >
-> *To see the face is quite enough, in presence brought, When men can look within and know the lurking thought.*
+> *The world its course maintains through life that rain unfailing gives; Thus rain is known the true ambrosial food of all that lives.*
 
-*குறிப்பறிதல் · பொருட்பால்*  
-<sub>Kural #708 · July 25, 2026</sub>
+*வான்சிறப்பு · அறத்துப்பால்*  
+<sub>Kural #11 · July 26, 2026</sub>
 <!-- KURAL:END -->
 
 
