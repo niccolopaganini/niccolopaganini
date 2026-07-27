@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> வான்நின்று உலகம் வழங்கி வருதலால் தான்அமிழ்தம் என்றுணரற் பாற்று.  
+> வகையறச் சூழா தெழுதல் பகைவரைப் பாத்திப் படுப்பதோ ராறு.  
 >
-> *The world its course maintains through life that rain unfailing gives; Thus rain is known the true ambrosial food of all that lives.*
+> *With plans not well matured to rise against your foe, Is way to plant him out where he is sure to grow!*
 
-*வான்சிறப்பு · அறத்துப்பால்*  
-<sub>Kural #11 · July 26, 2026</sub>
+*தெரிந்துசெயல்வகை · பொருட்பால்*  
+<sub>Kural #465 · July 27, 2026</sub>
 <!-- KURAL:END -->
 
 
