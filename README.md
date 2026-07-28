@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> வகையறச் சூழா தெழுதல் பகைவரைப் பாத்திப் படுப்பதோ ராறு.  
+> ஙல்லும்வா யெல்லாம் வினைநன்றே ஒல்லாக்கால் செல்லும்வாய் நோக்கிச் செயல்.  
 >
-> *With plans not well matured to rise against your foe, Is way to plant him out where he is sure to grow!*
+> *When way is clear, prompt let your action be; When not, watch till some open path you see.*
 
-*தெரிந்துசெயல்வகை · பொருட்பால்*  
-<sub>Kural #465 · July 27, 2026</sub>
+*வினைசெயல்வகை · பொருட்பால்*  
+<sub>Kural #673 · July 28, 2026</sub>
 <!-- KURAL:END -->
 
 
