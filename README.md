@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> ஙல்லும்வா யெல்லாம் வினைநன்றே ஒல்லாக்கால் செல்லும்வாய் நோக்கிச் செயல்.  
+> பெற்றாற் பெறின்பெறுவர் பெண்டிர் பெருஞ்சிறப்புப் புத்தேளிர் வாழும் உலகு.  
 >
-> *When way is clear, prompt let your action be; When not, watch till some open path you see.*
+> *If wife be wholly true to him who gained her as his bride, Great glory gains she in the world where gods bliss abide.*
 
-*வினைசெயல்வகை · பொருட்பால்*  
-<sub>Kural #673 · July 28, 2026</sub>
+*வாழ்க்கைத் துணைநலம் · அறத்துப்பால்*  
+<sub>Kural #58 · July 29, 2026</sub>
 <!-- KURAL:END -->
 
 
