@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> பெற்றாற் பெறின்பெறுவர் பெண்டிர் பெருஞ்சிறப்புப் புத்தேளிர் வாழும் உலகு.  
+> ஆகாறு அளவிட்டி தாயினுங் கேடில்லை போகாறு அகலாக் கடை.  
 >
-> *If wife be wholly true to him who gained her as his bride, Great glory gains she in the world where gods bliss abide.*
+> *Incomings may be scant; but yet, no failure there, If in expenditure you rightly learn to spare.*
 
-*வாழ்க்கைத் துணைநலம் · அறத்துப்பால்*  
-<sub>Kural #58 · July 29, 2026</sub>
+*வலியறிதல் · பொருட்பால்*  
+<sub>Kural #478 · July 30, 2026</sub>
 <!-- KURAL:END -->
 
 
