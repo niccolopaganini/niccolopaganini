@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> ஆகாறு அளவிட்டி தாயினுங் கேடில்லை போகாறு அகலாக் கடை.  
+> ஆற்றின் அளவறிந்து கற்க அவையஞ்சா மாற்றங் கொடுத்தற் பொருட்டு.  
 >
-> *Incomings may be scant; but yet, no failure there, If in expenditure you rightly learn to spare.*
+> *By rule, to dialectic art your mind apply, That in the council fearless you may make an apt reply.*
 
-*வலியறிதல் · பொருட்பால்*  
-<sub>Kural #478 · July 30, 2026</sub>
+*அவையஞ்சாமை · பொருட்பால்*  
+<sub>Kural #725 · July 31, 2026</sub>
 <!-- KURAL:END -->
 
 
