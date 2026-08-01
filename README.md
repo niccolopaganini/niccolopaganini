@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> ஆற்றின் அளவறிந்து கற்க அவையஞ்சா மாற்றங் கொடுத்தற் பொருட்டு.  
+> உள்ளொற்றி உள்ளூர் நகப்படுவர் எஞ்ஞான்றும் கள்ளொற்றிக் கண்சாய் பவர்3  
 >
-> *By rule, to dialectic art your mind apply, That in the council fearless you may make an apt reply.*
+> *Who turn aside to drink, and droop their heavy eye, Shall be their townsmen's jest, when they the fault espy.*
 
-*அவையஞ்சாமை · பொருட்பால்*  
-<sub>Kural #725 · July 31, 2026</sub>
+*கள்ளுண்ணாமை · பொருட்பால்*  
+<sub>Kural #927 · August 01, 2026</sub>
 <!-- KURAL:END -->
 
 
