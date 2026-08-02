@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> உள்ளொற்றி உள்ளூர் நகப்படுவர் எஞ்ஞான்றும் கள்ளொற்றிக் கண்சாய் பவர்3  
+> வேண்டுதல் வேண்டாமை இலானடி சேர்ந்தார்க்கு யாண்டும் இடும்பை இல.  
 >
-> *Who turn aside to drink, and droop their heavy eye, Shall be their townsmen's jest, when they the fault espy.*
+> *His foot, 'Whom want affects not, irks not grief,' who gain Shall not, through every time, of any woes complain.*
 
-*கள்ளுண்ணாமை · பொருட்பால்*  
-<sub>Kural #927 · August 01, 2026</sub>
+*கடவுள் வாழ்த்து · அறத்துப்பால்*  
+<sub>Kural #4 · August 02, 2026</sub>
 <!-- KURAL:END -->
 
 
