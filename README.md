@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> வேண்டுதல் வேண்டாமை இலானடி சேர்ந்தார்க்கு யாண்டும் இடும்பை இல.  
+> கொடையளி செங்கோல் குடியோம்பல் நான்கும் உடையானாம் வேந்தர்க் கொளி.  
 >
-> *His foot, 'Whom want affects not, irks not grief,' who gain Shall not, through every time, of any woes complain.*
+> *Gifts, grace, right sceptre, care of people's weal; These four a light of dreaded kings reveal.*
 
-*கடவுள் வாழ்த்து · அறத்துப்பால்*  
-<sub>Kural #4 · August 02, 2026</sub>
+*இறைமாட்சி · பொருட்பால்*  
+<sub>Kural #390 · August 03, 2026</sub>
 <!-- KURAL:END -->
 
 
