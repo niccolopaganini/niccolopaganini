@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> கொடையளி செங்கோல் குடியோம்பல் நான்கும் உடையானாம் வேந்தர்க் கொளி.  
+> தேறற்க யாரையும் தேராது தேர்ந்தபின் தேறுக தேறும் பொருள்.  
 >
-> *Gifts, grace, right sceptre, care of people's weal; These four a light of dreaded kings reveal.*
+> *Trust no man whom you have not fully tried, When tested, in his prudence proved confide.*
 
-*இறைமாட்சி · பொருட்பால்*  
-<sub>Kural #390 · August 03, 2026</sub>
+*தெரிந்துதெளிதல் · பொருட்பால்*  
+<sub>Kural #509 · August 04, 2026</sub>
 <!-- KURAL:END -->
 
 
