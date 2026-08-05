@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> தேறற்க யாரையும் தேராது தேர்ந்தபின் தேறுக தேறும் பொருள்.  
+> நிறையுடையேன் என்பேன்மன் யானோஎன் காமம் மறையிறந்து மன்று படும்.  
 >
-> *Trust no man whom you have not fully tried, When tested, in his prudence proved confide.*
+> *In womanly reserve I deemed myself beyond assail; But love will come abroad, and casts away the veil.*
 
-*தெரிந்துதெளிதல் · பொருட்பால்*  
-<sub>Kural #509 · August 04, 2026</sub>
+*நிறையழிதல் · காமத்துப்பால்*  
+<sub>Kural #1254 · August 05, 2026</sub>
 <!-- KURAL:END -->
 
 
