@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> நிறையுடையேன் என்பேன்மன் யானோஎன் காமம் மறையிறந்து மன்று படும்.  
+> கெடல்வேண்டின் கேளாது செய்க அடல்வேண்டின் ஆற்று பவர்கண் இழுக்கு.  
 >
-> *In womanly reserve I deemed myself beyond assail; But love will come abroad, and casts away the veil.*
+> *Who ruin covet let them shut their ears, and do despite To those who, where they list to ruin have the might.*
 
-*நிறையழிதல் · காமத்துப்பால்*  
-<sub>Kural #1254 · August 05, 2026</sub>
+*பெரியாரைப் பிழையாமை · பொருட்பால்*  
+<sub>Kural #893 · August 06, 2026</sub>
 <!-- KURAL:END -->
 
 
