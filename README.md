@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> கெடல்வேண்டின் கேளாது செய்க அடல்வேண்டின் ஆற்று பவர்கண் இழுக்கு.  
+> இறந்தார் இறந்தார் அனையர் சினத்தைத் துறந்தார் துறந்தார் துணை.  
 >
-> *Who ruin covet let them shut their ears, and do despite To those who, where they list to ruin have the might.*
+> *Men of surpassing wrath are like the men who've passed away; Who wrath renounce, equals of all-renouncing sages they.*
 
-*பெரியாரைப் பிழையாமை · பொருட்பால்*  
-<sub>Kural #893 · August 06, 2026</sub>
+*வெகுளாமை · அறத்துப்பால்*  
+<sub>Kural #310 · August 07, 2026</sub>
 <!-- KURAL:END -->
 
 
