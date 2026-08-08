@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> இறந்தார் இறந்தார் அனையர் சினத்தைத் துறந்தார் துறந்தார் துணை.  
+> முரண்சேர்ந்த மொய்ம்பி னவர்க்கும் அரண்சேர்ந்தாம் ஆக்கம் பலவுந் தரும்.  
 >
-> *Men of surpassing wrath are like the men who've passed away; Who wrath renounce, equals of all-renouncing sages they.*
+> *Though skill in war combine with courage tried on battle-field, The added gain of fort doth great advantage yield.*
 
-*வெகுளாமை · அறத்துப்பால்*  
-<sub>Kural #310 · August 07, 2026</sub>
+*இடனறிதல் · பொருட்பால்*  
+<sub>Kural #492 · August 08, 2026</sub>
 <!-- KURAL:END -->
 
 
