@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> முரண்சேர்ந்த மொய்ம்பி னவர்க்கும் அரண்சேர்ந்தாம் ஆக்கம் பலவுந் தரும்.  
+> சொல்லப் பயன்படுவர் சான்றோர் கரும்புபோல் கொல்லப் பயன்படும் கீழ்.  
 >
-> *Though skill in war combine with courage tried on battle-field, The added gain of fort doth great advantage yield.*
+> *The good to those will profit yield fair words who use; The base, like sugar-cane, will profit those who bruise.*
 
-*இடனறிதல் · பொருட்பால்*  
-<sub>Kural #492 · August 08, 2026</sub>
+*கயமை · பொருட்பால்*  
+<sub>Kural #1078 · August 09, 2026</sub>
 <!-- KURAL:END -->
 
 
