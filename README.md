@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> சொல்லப் பயன்படுவர் சான்றோர் கரும்புபோல் கொல்லப் பயன்படும் கீழ்.  
+> பேதைப் படுக்கும் இழவூழ் அறிவகற்றும் ஆகலூழ் உற்றக் கடை.  
 >
-> *The good to those will profit yield fair words who use; The base, like sugar-cane, will profit those who bruise.*
+> *The fate that loss ordains makes wise men's wisdom foolishness; The fate that gain bestows with ampler powers will wisdom bless.*
 
-*கயமை · பொருட்பால்*  
-<sub>Kural #1078 · August 09, 2026</sub>
+*ஊழ் · அறத்துப்பால்*  
+<sub>Kural #372 · August 10, 2026</sub>
 <!-- KURAL:END -->
 
 
