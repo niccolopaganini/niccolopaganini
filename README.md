@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> பேதைப் படுக்கும் இழவூழ் அறிவகற்றும் ஆகலூழ் உற்றக் கடை.  
+> வீறெய்தி மாண்டார் வினைத்திட்பம் வேந்தன்கண் ஊறெய்தி உள்ளப் படும்.  
 >
-> *The fate that loss ordains makes wise men's wisdom foolishness; The fate that gain bestows with ampler powers will wisdom bless.*
+> *The power in act of men renowned and great, With king acceptance finds and fame through all the state.*
 
-*ஊழ் · அறத்துப்பால்*  
-<sub>Kural #372 · August 10, 2026</sub>
+*வினைத்திட்பம் · பொருட்பால்*  
+<sub>Kural #665 · August 11, 2026</sub>
 <!-- KURAL:END -->
 
 
