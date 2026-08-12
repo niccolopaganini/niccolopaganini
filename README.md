@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> வீறெய்தி மாண்டார் வினைத்திட்பம் வேந்தன்கண் ஊறெய்தி உள்ளப் படும்.  
+> கண்தாம் கலுழ்வ தெவன்கொலோ தண்டாநோய் தாம்காட்ட யாம்கண் டது.  
 >
-> *The power in act of men renowned and great, With king acceptance finds and fame through all the state.*
+> *They showed me him, and then my endless pain I saw: why then should weeping eyes complain?*
 
-*வினைத்திட்பம் · பொருட்பால்*  
-<sub>Kural #665 · August 11, 2026</sub>
+*கண்விதுப்பழிதல் · காமத்துப்பால்*  
+<sub>Kural #1171 · August 12, 2026</sub>
 <!-- KURAL:END -->
 
 
