@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> கண்தாம் கலுழ்வ தெவன்கொலோ தண்டாநோய் தாம்காட்ட யாம்கண் டது.  
+> உலகம் தழீஇய தொட்பம் மலர்தலும் கூம்பலும் இல்ல தறிவு.  
 >
-> *They showed me him, and then my endless pain I saw: why then should weeping eyes complain?*
+> *Wisdom embraces frank the world, to no caprice exposed; Unlike the lotus flower, now opened wide, now petals strictly closed.*
 
-*கண்விதுப்பழிதல் · காமத்துப்பால்*  
-<sub>Kural #1171 · August 12, 2026</sub>
+*அறிவுடைமை · பொருட்பால்*  
+<sub>Kural #425 · August 13, 2026</sub>
 <!-- KURAL:END -->
 
 
