@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> உலகம் தழீஇய தொட்பம் மலர்தலும் கூம்பலும் இல்ல தறிவு.  
+> தினற்பொருட்டால் கொல்லாது உலகெனின் யாரும் விலைப்பொருட்டால் ஊன்றருவா ரில்.  
 >
-> *Wisdom embraces frank the world, to no caprice exposed; Unlike the lotus flower, now opened wide, now petals strictly closed.*
+> *'We eat the slain,' you say, by us no living creatures die; Who'd kill and sell, I pray, if none came there the flesh to buy?*
 
-*அறிவுடைமை · பொருட்பால்*  
-<sub>Kural #425 · August 13, 2026</sub>
+*புலான்மறுத்தல் · அறத்துப்பால்*  
+<sub>Kural #256 · August 14, 2026</sub>
 <!-- KURAL:END -->
 
 
