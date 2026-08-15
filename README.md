@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> தினற்பொருட்டால் கொல்லாது உலகெனின் யாரும் விலைப்பொருட்டால் ஊன்றருவா ரில்.  
+> செய்வினை செய்வான் செயன்முறை அவ்வினை உள்ளறிவான் உள்ளம் கொளல்.  
 >
-> *'We eat the slain,' you say, by us no living creatures die; Who'd kill and sell, I pray, if none came there the flesh to buy?*
+> *Who would succeed must thus begin: first let him ask The thoughts of them who thoroughly know the task.*
 
-*புலான்மறுத்தல் · அறத்துப்பால்*  
-<sub>Kural #256 · August 14, 2026</sub>
+*வினைசெயல்வகை · பொருட்பால்*  
+<sub>Kural #677 · August 15, 2026</sub>
 <!-- KURAL:END -->
 
 
