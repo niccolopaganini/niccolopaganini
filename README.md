@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> செய்வினை செய்வான் செயன்முறை அவ்வினை உள்ளறிவான் உள்ளம் கொளல்.  
+> இன்மையின் இன்னாது உடைமை முறைசெய்யா மன்னவன் கோற்கீழ்ப் படின்.  
 >
-> *Who would succeed must thus begin: first let him ask The thoughts of them who thoroughly know the task.*
+> *To poverty it adds a sharper sting, To live beneath the sway of unjust king.*
 
-*வினைசெயல்வகை · பொருட்பால்*  
-<sub>Kural #677 · August 15, 2026</sub>
+*கொடுங்கோன்மை · பொருட்பால்*  
+<sub>Kural #558 · August 16, 2026</sub>
 <!-- KURAL:END -->
 
 
