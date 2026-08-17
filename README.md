@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> இன்மையின் இன்னாது உடைமை முறைசெய்யா மன்னவன் கோற்கீழ்ப் படின்.  
+> தாளாற்றித் தந்த பொருளெல்லாம் தக்கார்க்கு வேளாண்மை செய்தற் பொருட்டு.  
 >
-> *To poverty it adds a sharper sting, To live beneath the sway of unjust king.*
+> *The worthy say, when wealth rewards their toil-spent hours, For uses of beneficence alone 'tis ours.*
 
-*கொடுங்கோன்மை · பொருட்பால்*  
-<sub>Kural #558 · August 16, 2026</sub>
+*ஒப்புரவறிதல் · அறத்துப்பால்*  
+<sub>Kural #212 · August 17, 2026</sub>
 <!-- KURAL:END -->
 
 
