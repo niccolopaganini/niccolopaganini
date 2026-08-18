@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> தாளாற்றித் தந்த பொருளெல்லாம் தக்கார்க்கு வேளாண்மை செய்தற் பொருட்டு.  
+> கேடறியாக் கெட்ட இடத்தும் வளங்குன்றா நாடென்ப நாட்டின் தலை.  
 >
-> *The worthy say, when wealth rewards their toil-spent hours, For uses of beneficence alone 'tis ours.*
+> *Chief of all lands is that, where nought disturbs its peace; Or, if invaders come, still yields its rich increase.*
 
-*ஒப்புரவறிதல் · அறத்துப்பால்*  
-<sub>Kural #212 · August 17, 2026</sub>
+*நாடு · பொருட்பால்*  
+<sub>Kural #736 · August 18, 2026</sub>
 <!-- KURAL:END -->
 
 
