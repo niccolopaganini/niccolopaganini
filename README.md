@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> கேடறியாக் கெட்ட இடத்தும் வளங்குன்றா நாடென்ப நாட்டின் தலை.  
+> உள்ளத்தார் காத லவரால் உள்ளிநீ யாருழைச் சேறியென் நெஞ்சு.  
 >
-> *Chief of all lands is that, where nought disturbs its peace; Or, if invaders come, still yields its rich increase.*
+> *My heart! my lover lives within my mind; Roaming, whom dost thou think to find?*
 
-*நாடு · பொருட்பால்*  
-<sub>Kural #736 · August 18, 2026</sub>
+*நெஞ்சொடுகிளத்தல் · காமத்துப்பால்*  
+<sub>Kural #1249 · August 19, 2026</sub>
 <!-- KURAL:END -->
 
 
