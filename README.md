@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> உள்ளத்தார் காத லவரால் உள்ளிநீ யாருழைச் சேறியென் நெஞ்சு.  
+> மருவுக மாசற்றார் கேண்மைஒன் றீத்தும் ஒருவுக ஒப்பிலார் நட்பு.  
 >
-> *My heart! my lover lives within my mind; Roaming, whom dost thou think to find?*
+> *Cling to the friendship of the spotless one's; whate'er you pay. Renounce alliance with the men of evil way.*
 
-*நெஞ்சொடுகிளத்தல் · காமத்துப்பால்*  
-<sub>Kural #1249 · August 19, 2026</sub>
+*நட்பாராய்தல் · பொருட்பால்*  
+<sub>Kural #800 · August 20, 2026</sub>
 <!-- KURAL:END -->
 
 
