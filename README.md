@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> மருவுக மாசற்றார் கேண்மைஒன் றீத்தும் ஒருவுக ஒப்பிலார் நட்பு.  
+> செவியிற் சுவையுணரா வாயுணர்வின் மாக்கள் அவியினும் வாழினும் என்.  
 >
-> *Cling to the friendship of the spotless one's; whate'er you pay. Renounce alliance with the men of evil way.*
+> *His mouth can taste, but ear no taste of joy can give! What matter if he die, or prosperous live?*
 
-*நட்பாராய்தல் · பொருட்பால்*  
-<sub>Kural #800 · August 20, 2026</sub>
+*கேள்வி · பொருட்பால்*  
+<sub>Kural #420 · August 21, 2026</sub>
 <!-- KURAL:END -->
 
 
