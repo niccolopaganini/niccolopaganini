@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> செவியிற் சுவையுணரா வாயுணர்வின் மாக்கள் அவியினும் வாழினும் என்.  
+> கொல்லான் புலாலை மறுத்தானைக் கைகூப்பி எல்லா உயிருந் தொழும்.  
 >
-> *His mouth can taste, but ear no taste of joy can give! What matter if he die, or prosperous live?*
+> *Who slays nought,- flesh rejects- his feet before All living things with clasped hands adore.*
 
-*கேள்வி · பொருட்பால்*  
-<sub>Kural #420 · August 21, 2026</sub>
+*புலான்மறுத்தல் · அறத்துப்பால்*  
+<sub>Kural #260 · August 22, 2026</sub>
 <!-- KURAL:END -->
 
 
