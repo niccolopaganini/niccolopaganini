@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> கொல்லான் புலாலை மறுத்தானைக் கைகூப்பி எல்லா உயிருந் தொழும்.  
+> நன்னீரை வாழி அனிச்சமே நின்னினும் மென்னீரள் யாம்வீழ் பவள்.  
 >
-> *Who slays nought,- flesh rejects- his feet before All living things with clasped hands adore.*
+> *O flower of the sensitive plant! than thee More tender's the maiden beloved by me.*
 
-*புலான்மறுத்தல் · அறத்துப்பால்*  
-<sub>Kural #260 · August 22, 2026</sub>
+*நலம்புனைந்துரைத்தல் · காமத்துப்பால்*  
+<sub>Kural #1111 · August 23, 2026</sub>
 <!-- KURAL:END -->
 
 
