@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> நன்னீரை வாழி அனிச்சமே நின்னினும் மென்னீரள் யாம்வீழ் பவள்.  
+> ஊழையும் உப்பக்கம் காண்பர் உலைவின்றித் தாழாது உஞற்று பவர்.  
 >
-> *O flower of the sensitive plant! than thee More tender's the maiden beloved by me.*
+> *Who strive with undismayed, unfaltering mind, At length shall leave opposing fate behind.*
 
-*நலம்புனைந்துரைத்தல் · காமத்துப்பால்*  
-<sub>Kural #1111 · August 23, 2026</sub>
+*ஆள்வினையுடைமை · பொருட்பால்*  
+<sub>Kural #620 · August 24, 2026</sub>
 <!-- KURAL:END -->
 
 
