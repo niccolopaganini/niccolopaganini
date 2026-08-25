@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> ஊழையும் உப்பக்கம் காண்பர் உலைவின்றித் தாழாது உஞற்று பவர்.  
+> என்பி லதனை வெயில்போலக் காயுமே அன்பி லதனை அறம்.  
 >
-> *Who strive with undismayed, unfaltering mind, At length shall leave opposing fate behind.*
+> *As sun's fierce ray dries up the boneless things, So loveless beings virtue's power to nothing brings.*
 
-*ஆள்வினையுடைமை · பொருட்பால்*  
-<sub>Kural #620 · August 24, 2026</sub>
+*அன்புடைமை · அறத்துப்பால்*  
+<sub>Kural #77 · August 25, 2026</sub>
 <!-- KURAL:END -->
 
 
