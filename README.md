@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> என்பி லதனை வெயில்போலக் காயுமே அன்பி லதனை அறம்.  
+> நெடும்புனலுள் வெல்லும் முதலை அடும்புனலின் நீங்கின் அதனைப் பிற.  
 >
-> *As sun's fierce ray dries up the boneless things, So loveless beings virtue's power to nothing brings.*
+> *The crocodile prevails in its own flow of water wide, If this it leaves, 'tis slain by anything beside.*
 
-*அன்புடைமை · அறத்துப்பால்*  
-<sub>Kural #77 · August 25, 2026</sub>
+*இடனறிதல் · பொருட்பால்*  
+<sub>Kural #495 · August 26, 2026</sub>
 <!-- KURAL:END -->
 
 
