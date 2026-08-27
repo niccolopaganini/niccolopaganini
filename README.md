@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> நெடும்புனலுள் வெல்லும் முதலை அடும்புனலின் நீங்கின் அதனைப் பிற.  
+> நிழல்நீரும் இன்னாத இன்னா தமர்நீரும் இன்னாவாம் இன்னா செயின்.  
 >
-> *The crocodile prevails in its own flow of water wide, If this it leaves, 'tis slain by anything beside.*
+> *Water and shade, if they unwholesome prove, will bring you pain. And qualities of friends who treacherous act, will be your bane.*
 
-*இடனறிதல் · பொருட்பால்*  
-<sub>Kural #495 · August 26, 2026</sub>
+*உட்பகை · பொருட்பால்*  
+<sub>Kural #881 · August 27, 2026</sub>
 <!-- KURAL:END -->
 
 
