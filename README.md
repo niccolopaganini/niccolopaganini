@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> நிழல்நீரும் இன்னாத இன்னா தமர்நீரும் இன்னாவாம் இன்னா செயின்.  
+> அளித்தஞ்சல் என்றவர் நீப்பின் தெளித்தசொல் தேறியார்க்கு உண்டோ தவறு.  
 >
-> *Water and shade, if they unwholesome prove, will bring you pain. And qualities of friends who treacherous act, will be your bane.*
+> *If he depart, who fondly said, 'Fear not,' what blame's incurred By those who trusted to his reassuring word?*
 
-*உட்பகை · பொருட்பால்*  
-<sub>Kural #881 · August 27, 2026</sub>
+*பிரிவாற்றாமை · காமத்துப்பால்*  
+<sub>Kural #1154 · August 28, 2026</sub>
 <!-- KURAL:END -->
 
 
