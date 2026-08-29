@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> அளித்தஞ்சல் என்றவர் நீப்பின் தெளித்தசொல் தேறியார்க்கு உண்டோ தவறு.  
+> வினைசெய்வார் தம்சுற்றம் வேண்டாதார் என்றாங்கு அனைவரையும் ஆராய்வது ஒற்று.  
 >
-> *If he depart, who fondly said, 'Fear not,' what blame's incurred By those who trusted to his reassuring word?*
+> *His officers, his friends, his enemies, All these who watch are trusty spies.*
 
-*பிரிவாற்றாமை · காமத்துப்பால்*  
-<sub>Kural #1154 · August 28, 2026</sub>
+*ஒற்றாடல் · பொருட்பால்*  
+<sub>Kural #584 · August 29, 2026</sub>
 <!-- KURAL:END -->
 
 
