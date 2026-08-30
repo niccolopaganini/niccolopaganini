@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> வினைசெய்வார் தம்சுற்றம் வேண்டாதார் என்றாங்கு அனைவரையும் ஆராய்வது ஒற்று.  
+> குழல்இனிது யாழ்இனிது என்பதம் மக்கள் மழலைச்சொல் கேளா தவர்.  
 >
-> *His officers, his friends, his enemies, All these who watch are trusty spies.*
+> *'The pipe is sweet,' 'the lute is sweet,' by them't will be averred, Who music of their infants' lisping lips have never heard.*
 
-*ஒற்றாடல் · பொருட்பால்*  
-<sub>Kural #584 · August 29, 2026</sub>
+*புதல்வரைப் பெறுதல் · அறத்துப்பால்*  
+<sub>Kural #66 · August 30, 2026</sub>
 <!-- KURAL:END -->
 
 
