@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> குழல்இனிது யாழ்இனிது என்பதம் மக்கள் மழலைச்சொல் கேளா தவர்.  
+> பெருங்கொடையான் பேணான் வெகுளி அவனின் மருங்குடையார் மாநிலத்து இல்.  
 >
-> *'The pipe is sweet,' 'the lute is sweet,' by them't will be averred, Who music of their infants' lisping lips have never heard.*
+> *Than one who gifts bestows and wrath restrains, Through the wide world none larger following gains.*
 
-*புதல்வரைப் பெறுதல் · அறத்துப்பால்*  
-<sub>Kural #66 · August 30, 2026</sub>
+*சுற்றந்தழால் · பொருட்பால்*  
+<sub>Kural #526 · August 31, 2026</sub>
 <!-- KURAL:END -->
 
 
