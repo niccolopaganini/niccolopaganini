@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> பெருங்கொடையான் பேணான் வெகுளி அவனின் மருங்குடையார் மாநிலத்து இல்.  
+> ஒத்த தறவோன் உயிர்வாழ்வான் மற்றையான் செத்தாருள் வைக்கப் படும்.  
 >
-> *Than one who gifts bestows and wrath restrains, Through the wide world none larger following gains.*
+> *Who knows what's human life's befitting grace, He lives; the rest 'mongst dead men have their place.*
 
-*சுற்றந்தழால் · பொருட்பால்*  
-<sub>Kural #526 · August 31, 2026</sub>
+*ஒப்புரவறிதல் · அறத்துப்பால்*  
+<sub>Kural #214 · September 01, 2026</sub>
 <!-- KURAL:END -->
 
 
