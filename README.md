@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> ஒத்த தறவோன் உயிர்வாழ்வான் மற்றையான் செத்தாருள் வைக்கப் படும்.  
+> கெடுவாக வையாது உலகம் நடுவாக நன்றிக்கண் தங்கியான் தாழ்வு.  
 >
-> *Who knows what's human life's befitting grace, He lives; the rest 'mongst dead men have their place.*
+> *The man who justly lives, tenacious of the right, In low estate is never low to wise man's sight.*
 
-*ஒப்புரவறிதல் · அறத்துப்பால்*  
-<sub>Kural #214 · September 01, 2026</sub>
+*நடுவு நிலைமை · அறத்துப்பால்*  
+<sub>Kural #117 · September 02, 2026</sub>
 <!-- KURAL:END -->
 
 
