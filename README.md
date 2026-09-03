@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> கெடுவாக வையாது உலகம் நடுவாக நன்றிக்கண் தங்கியான் தாழ்வு.  
+> இயல்பினான் இல்வாழ்க்கை வாழ்பவன் என்பான் முயல்வாருள் எல்லாம் தலை.  
 >
-> *The man who justly lives, tenacious of the right, In low estate is never low to wise man's sight.*
+> *In nature's way who spends his calm domestic days, 'Mid all that strive for virtue's crown hath foremost place.*
 
-*நடுவு நிலைமை · அறத்துப்பால்*  
-<sub>Kural #117 · September 02, 2026</sub>
+*இல்வாழ்க்கை · அறத்துப்பால்*  
+<sub>Kural #47 · September 03, 2026</sub>
 <!-- KURAL:END -->
 
 
