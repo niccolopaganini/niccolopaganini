@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> இயல்பினான் இல்வாழ்க்கை வாழ்பவன் என்பான் முயல்வாருள் எல்லாம் தலை.  
+> வசையொழிய வாழ்வாரே வாழ்வார் இசையொழிய வாழ்வாரே வாழா தவர்.  
 >
-> *In nature's way who spends his calm domestic days, 'Mid all that strive for virtue's crown hath foremost place.*
+> *Who live without reproach, them living men we deem; Who live without renown, live not, though living men they seem.*
 
-*இல்வாழ்க்கை · அறத்துப்பால்*  
-<sub>Kural #47 · September 03, 2026</sub>
+*புகழ் · அறத்துப்பால்*  
+<sub>Kural #240 · September 04, 2026</sub>
 <!-- KURAL:END -->
 
 
