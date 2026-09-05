@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> வசையொழிய வாழ்வாரே வாழ்வார் இசையொழிய வாழ்வாரே வாழா தவர்.  
+> இருபுனலும் வாய்ந்த மலையும் வருபுனலும் வல்லரணும் நாட்டிற்கு உறுப்பு.  
 >
-> *Who live without reproach, them living men we deem; Who live without renown, live not, though living men they seem.*
+> *Waters from rains and springs, a mountain near, and waters thence; These make a land, with fortress' sure defence.*
 
-*புகழ் · அறத்துப்பால்*  
-<sub>Kural #240 · September 04, 2026</sub>
+*நாடு · பொருட்பால்*  
+<sub>Kural #737 · September 05, 2026</sub>
 <!-- KURAL:END -->
 
 
