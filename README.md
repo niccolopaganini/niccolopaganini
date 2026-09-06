@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> இருபுனலும் வாய்ந்த மலையும் வருபுனலும் வல்லரணும் நாட்டிற்கு உறுப்பு.  
+> அன்பகத் தில்லா உயிர்வாழ்க்கை வன்பாற்கண் வற்றல் மரந்தளிர்த் தற்று.  
 >
-> *Waters from rains and springs, a mountain near, and waters thence; These make a land, with fortress' sure defence.*
+> *The loveless soul, the very joys of life may know, When flowers, in barren soil, on sapless trees, shall blow.*
 
-*நாடு · பொருட்பால்*  
-<sub>Kural #737 · September 05, 2026</sub>
+*அன்புடைமை · அறத்துப்பால்*  
+<sub>Kural #78 · September 06, 2026</sub>
 <!-- KURAL:END -->
 
 
