@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> அன்பகத் தில்லா உயிர்வாழ்க்கை வன்பாற்கண் வற்றல் மரந்தளிர்த் தற்று.  
+> இடும்பைக்கு இடும்பை படுப்பர் இடும்பைக்கு இடும்பை படாஅ தவர்.  
 >
-> *The loveless soul, the very joys of life may know, When flowers, in barren soil, on sapless trees, shall blow.*
+> *Who griefs confront with meek, ungrieving heart, From them griefs, put to grief, depart.*
 
-*அன்புடைமை · அறத்துப்பால்*  
-<sub>Kural #78 · September 06, 2026</sub>
+*இடுக்கணழியாமை · பொருட்பால்*  
+<sub>Kural #623 · September 07, 2026</sub>
 <!-- KURAL:END -->
 
 
