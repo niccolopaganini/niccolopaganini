@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> இடும்பைக்கு இடும்பை படுப்பர் இடும்பைக்கு இடும்பை படாஅ தவர்.  
+> நாம்காதல் கொண்டார் நமக்கெவன் செய்பவோ தாம்காதல் கொள்ளாக் கடை.  
 >
-> *Who griefs confront with meek, ungrieving heart, From them griefs, put to grief, depart.*
+> *From him I love to me what gain can be, Unless, as I love him, he loveth me?*
 
-*இடுக்கணழியாமை · பொருட்பால்*  
-<sub>Kural #623 · September 07, 2026</sub>
+*தனிப்படர்மிகுதி · காமத்துப்பால்*  
+<sub>Kural #1195 · September 08, 2026</sub>
 <!-- KURAL:END -->
 
 
