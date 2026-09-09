@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> நாம்காதல் கொண்டார் நமக்கெவன் செய்பவோ தாம்காதல் கொள்ளாக் கடை.  
+> ஆற்றுவார் ஆற்றல் இகழாமை போற்றுவார் போற்றலுள் எல்லாம் தலை.  
 >
-> *From him I love to me what gain can be, Unless, as I love him, he loveth me?*
+> *The chiefest care of those who guard themselves from ill, Is not to slight the powers of those who work their mighty will.*
 
-*தனிப்படர்மிகுதி · காமத்துப்பால்*  
-<sub>Kural #1195 · September 08, 2026</sub>
+*பெரியாரைப் பிழையாமை · பொருட்பால்*  
+<sub>Kural #891 · September 09, 2026</sub>
 <!-- KURAL:END -->
 
 
