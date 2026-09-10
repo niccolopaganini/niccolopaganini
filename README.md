@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> ஆற்றுவார் ஆற்றல் இகழாமை போற்றுவார் போற்றலுள் எல்லாம் தலை.  
+> அன்பும் அறனும் உடைத்தாயின் இல்வாழ்க்கை பண்பும் பயனும் அது.  
 >
-> *The chiefest care of those who guard themselves from ill, Is not to slight the powers of those who work their mighty will.*
+> *If love and virtue in the household reign, This is of life the perfect grace and gain.*
 
-*பெரியாரைப் பிழையாமை · பொருட்பால்*  
-<sub>Kural #891 · September 09, 2026</sub>
+*இல்வாழ்க்கை · அறத்துப்பால்*  
+<sub>Kural #45 · September 10, 2026</sub>
 <!-- KURAL:END -->
 
 
