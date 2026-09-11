@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> அன்பும் அறனும் உடைத்தாயின் இல்வாழ்க்கை பண்பும் பயனும் அது.  
+> வாளற்றுப் புற்கென்ற கண்ணும் அவர்சென்ற நாளொற்றித் தேய்ந்த விரல்.  
 >
-> *If love and virtue in the household reign, This is of life the perfect grace and gain.*
+> *My eyes have lost their brightness, sight is dimmed; my fingers worn, With nothing on the wall the days since I was left forlorn.*
 
-*இல்வாழ்க்கை · அறத்துப்பால்*  
-<sub>Kural #45 · September 10, 2026</sub>
+*அவர்வயின்விதும்பல் · காமத்துப்பால்*  
+<sub>Kural #1261 · September 11, 2026</sub>
 <!-- KURAL:END -->
 
 
