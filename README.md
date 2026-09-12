@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> வாளற்றுப் புற்கென்ற கண்ணும் அவர்சென்ற நாளொற்றித் தேய்ந்த விரல்.  
+> மற்றியான் என்னுளேன் மன்னோ அவரொடியான் உற்றநாள் உள்ள உளேன்.  
 >
-> *My eyes have lost their brightness, sight is dimmed; my fingers worn, With nothing on the wall the days since I was left forlorn.*
+> *How live I yet? I live to ponder o'er The days of bliss with him that are no more.*
 
-*அவர்வயின்விதும்பல் · காமத்துப்பால்*  
-<sub>Kural #1261 · September 11, 2026</sub>
+*நினைந்தவர்புலம்பல் · காமத்துப்பால்*  
+<sub>Kural #1206 · September 12, 2026</sub>
 <!-- KURAL:END -->
 
 
