@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> மற்றியான் என்னுளேன் மன்னோ அவரொடியான் உற்றநாள் உள்ள உளேன்.  
+> பொருட்பொருளார் புன்னலந் தோயார் அருட்பொருள் ஆயும் அறிவி னவர்.  
 >
-> *How live I yet? I live to ponder o'er The days of bliss with him that are no more.*
+> *Their worthless charms, whose only weal is wealth of gain, From touch of these the wise, who seek the wealth of grace, abstain.*
 
-*நினைந்தவர்புலம்பல் · காமத்துப்பால்*  
-<sub>Kural #1206 · September 12, 2026</sub>
+*வரைவின்மகளிர் · பொருட்பால்*  
+<sub>Kural #914 · September 13, 2026</sub>
 <!-- KURAL:END -->
 
 
