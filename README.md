@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> பொருட்பொருளார் புன்னலந் தோயார் அருட்பொருள் ஆயும் அறிவி னவர்.  
+> யாதானும் நாடாமால் ஊராமால் என்னொருவன் சாந்துணையுங் கல்லாத வாறு.  
 >
-> *Their worthless charms, whose only weal is wealth of gain, From touch of these the wise, who seek the wealth of grace, abstain.*
+> *The learned make each land their own, in every city find a home; Who, till they die; learn nought, along what weary ways they roam!*
 
-*வரைவின்மகளிர் · பொருட்பால்*  
-<sub>Kural #914 · September 13, 2026</sub>
+*கல்வி · பொருட்பால்*  
+<sub>Kural #397 · September 14, 2026</sub>
 <!-- KURAL:END -->
 
 
