@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> யாதானும் நாடாமால் ஊராமால் என்னொருவன் சாந்துணையுங் கல்லாத வாறு.  
+> நெய்யால் எரிநுதுப்பேம் என்றற்றால் கெளவையால் காமம் நுதுப்பேம் எனல்.  
 >
-> *The learned make each land their own, in every city find a home; Who, till they die; learn nought, along what weary ways they roam!*
+> *With butter-oil extinguish fire! 'Twill prove Harder by scandal to extinguish love.*
 
-*கல்வி · பொருட்பால்*  
-<sub>Kural #397 · September 14, 2026</sub>
+*அலரறிவுறுத்தல் · காமத்துப்பால்*  
+<sub>Kural #1148 · September 15, 2026</sub>
 <!-- KURAL:END -->
 
 
