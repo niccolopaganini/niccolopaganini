@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> நெய்யால் எரிநுதுப்பேம் என்றற்றால் கெளவையால் காமம் நுதுப்பேம் எனல்.  
+> வேண்டற்க வென்றிடினும் சூதினை வென்றதூஉம் தூண்டிற்பொன் மீன்விழுங்கி அற்று.  
 >
-> *With butter-oil extinguish fire! 'Twill prove Harder by scandal to extinguish love.*
+> *Seek not the gamester's play; though you should win, Your gain is as the baited hook the fish takes in.*
 
-*அலரறிவுறுத்தல் · காமத்துப்பால்*  
-<sub>Kural #1148 · September 15, 2026</sub>
+*சூது · பொருட்பால்*  
+<sub>Kural #931 · September 16, 2026</sub>
 <!-- KURAL:END -->
 
 
