@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> வேண்டற்க வென்றிடினும் சூதினை வென்றதூஉம் தூண்டிற்பொன் மீன்விழுங்கி அற்று.  
+> வில்லேர் உழவர் பகைகொளினும் கொள்ளற்க சொல்லேர் உழவர் பகை.  
 >
-> *Seek not the gamester's play; though you should win, Your gain is as the baited hook the fish takes in.*
+> *Although you hate incur of those whose ploughs are bows, Make not the men whose ploughs are words your foes!*
 
-*சூது · பொருட்பால்*  
-<sub>Kural #931 · September 16, 2026</sub>
+*பகைத்திறந்தெரிதல் · பொருட்பால்*  
+<sub>Kural #872 · September 17, 2026</sub>
 <!-- KURAL:END -->
 
 
