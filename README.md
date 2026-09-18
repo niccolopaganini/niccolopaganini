@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> வில்லேர் உழவர் பகைகொளினும் கொள்ளற்க சொல்லேர் உழவர் பகை.  
+> வருகமன் கொண்கன் ஒருநாள் பருகுவன் பைதல்நோய் எல்லாம் கெட.  
 >
-> *Although you hate incur of those whose ploughs are bows, Make not the men whose ploughs are words your foes!*
+> *O let my spouse but come again to me one day! I'll drink that nectar: wasting grief shall flee away.*
 
-*பகைத்திறந்தெரிதல் · பொருட்பால்*  
-<sub>Kural #872 · September 17, 2026</sub>
+*அவர்வயின்விதும்பல் · காமத்துப்பால்*  
+<sub>Kural #1266 · September 18, 2026</sub>
 <!-- KURAL:END -->
 
 
