@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> வருகமன் கொண்கன் ஒருநாள் பருகுவன் பைதல்நோய் எல்லாம் கெட.  
+> நிலத்தில் கிடந்தமை கால்காட்டும் காட்டும் குலத்தில் பிறந்தார்வாய்ச் சொல்.  
 >
-> *O let my spouse but come again to me one day! I'll drink that nectar: wasting grief shall flee away.*
+> *Of soil the plants that spring thereout will show the worth: The words they speak declare the men of noble birth.*
 
-*அவர்வயின்விதும்பல் · காமத்துப்பால்*  
-<sub>Kural #1266 · September 18, 2026</sub>
+*குடிமை · பொருட்பால்*  
+<sub>Kural #959 · September 19, 2026</sub>
 <!-- KURAL:END -->
 
 
