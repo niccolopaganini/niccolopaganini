@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> நிலத்தில் கிடந்தமை கால்காட்டும் காட்டும் குலத்தில் பிறந்தார்வாய்ச் சொல்.  
+> தொட்டனைத் தூறும் மணற்கேணி மாந்தர்க்குக் கற்றனைத் தூறும் அறிவு.  
 >
-> *Of soil the plants that spring thereout will show the worth: The words they speak declare the men of noble birth.*
+> *In sandy soil, when deep you delve, you reach the springs below; The more you learn, the freer streams of wisdom flow.*
 
-*குடிமை · பொருட்பால்*  
-<sub>Kural #959 · September 19, 2026</sub>
+*கல்வி · பொருட்பால்*  
+<sub>Kural #396 · September 20, 2026</sub>
 <!-- KURAL:END -->
 
 
