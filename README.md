@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> தொட்டனைத் தூறும் மணற்கேணி மாந்தர்க்குக் கற்றனைத் தூறும் அறிவு.  
+> இன்னாது இனன்இல்ஊர் வாழ்தல் அதனினும் இன்னாது இனியார்ப் பிரிவு.  
 >
-> *In sandy soil, when deep you delve, you reach the springs below; The more you learn, the freer streams of wisdom flow.*
+> *'Tis sad to sojourn in the town where no kind kinsmen dwell; 'Tis sadder still to bid a friend beloved farewell.*
 
-*கல்வி · பொருட்பால்*  
-<sub>Kural #396 · September 20, 2026</sub>
+*பிரிவாற்றாமை · காமத்துப்பால்*  
+<sub>Kural #1158 · September 21, 2026</sub>
 <!-- KURAL:END -->
 
 
