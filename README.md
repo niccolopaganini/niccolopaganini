@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> இன்னாது இனன்இல்ஊர் வாழ்தல் அதனினும் இன்னாது இனியார்ப் பிரிவு.  
+> குடிசெய்வார்க் கில்லை பருவம் மடிசெய்து மானங் கருதக் கெடும்.  
 >
-> *'Tis sad to sojourn in the town where no kind kinsmen dwell; 'Tis sadder still to bid a friend beloved farewell.*
+> *Wait for no season, when you would your house uprear; 'Twill perish, if you wait supine, or hold your honour dear.*
 
-*பிரிவாற்றாமை · காமத்துப்பால்*  
-<sub>Kural #1158 · September 21, 2026</sub>
+*குடிசெயல்வகை · பொருட்பால்*  
+<sub>Kural #1028 · September 22, 2026</sub>
 <!-- KURAL:END -->
 
 
