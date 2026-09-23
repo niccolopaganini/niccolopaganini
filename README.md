@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> குடிசெய்வார்க் கில்லை பருவம் மடிசெய்து மானங் கருதக் கெடும்.  
+> தீயவை செய்தார் கெடுதல் நிழல்தன்னை வீயாது அஇஉறைந் தற்று.  
 >
-> *Wait for no season, when you would your house uprear; 'Twill perish, if you wait supine, or hold your honour dear.*
+> *Man's shadow dogs his steps where'er he wends; Destruction thus on sinful deeds attends.*
 
-*குடிசெயல்வகை · பொருட்பால்*  
-<sub>Kural #1028 · September 22, 2026</sub>
+*தீவினையச்சம் · அறத்துப்பால்*  
+<sub>Kural #208 · September 23, 2026</sub>
 <!-- KURAL:END -->
 
 
