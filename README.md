@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> தீயவை செய்தார் கெடுதல் நிழல்தன்னை வீயாது அஇஉறைந் தற்று.  
+> இன்பம் விழையான் இடும்பை இயல்பென்பான் துன்பம் உறுதல் இலன்.  
 >
-> *Man's shadow dogs his steps where'er he wends; Destruction thus on sinful deeds attends.*
+> *He seeks not joy, to sorrow man is born, he knows; Such man will walk unharmed by touch of human woes.*
 
-*தீவினையச்சம் · அறத்துப்பால்*  
-<sub>Kural #208 · September 23, 2026</sub>
+*இடுக்கணழியாமை · பொருட்பால்*  
+<sub>Kural #628 · September 24, 2026</sub>
 <!-- KURAL:END -->
 
 
