@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> இன்பம் விழையான் இடும்பை இயல்பென்பான் துன்பம் உறுதல் இலன்.  
+> அகழ்வாரைத் தாங்கும் நிலம்போலத் தம்மை இகழ்வார்ப் பொறுத்தல் தலை.  
 >
-> *He seeks not joy, to sorrow man is born, he knows; Such man will walk unharmed by touch of human woes.*
+> *As earth bears up the men who delve into her breast, To bear with scornful men of virtues is the best.*
 
-*இடுக்கணழியாமை · பொருட்பால்*  
-<sub>Kural #628 · September 24, 2026</sub>
+*பொறையுடைமை · அறத்துப்பால்*  
+<sub>Kural #151 · September 25, 2026</sub>
 <!-- KURAL:END -->
 
 
