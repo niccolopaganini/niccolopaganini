@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> அகழ்வாரைத் தாங்கும் நிலம்போலத் தம்மை இகழ்வார்ப் பொறுத்தல் தலை.  
+> கண்டது மன்னும் ஒருநாள் அலர்மன்னும் திங்களைப் பாம்புகொண் டற்று.  
 >
-> *As earth bears up the men who delve into her breast, To bear with scornful men of virtues is the best.*
+> *I saw him but one single day: rumour spreads soon As darkness, when the dragon seizes on the moon.*
 
-*பொறையுடைமை · அறத்துப்பால்*  
-<sub>Kural #151 · September 25, 2026</sub>
+*அலரறிவுறுத்தல் · காமத்துப்பால்*  
+<sub>Kural #1146 · September 26, 2026</sub>
 <!-- KURAL:END -->
 
 
