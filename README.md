@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> கண்டது மன்னும் ஒருநாள் அலர்மன்னும் திங்களைப் பாம்புகொண் டற்று.  
+> சுழன்றும்ஏர்ப் பின்னது உலகம் அதனால் உழந்தும் உழவே தலை.  
 >
-> *I saw him but one single day: rumour spreads soon As darkness, when the dragon seizes on the moon.*
+> *Howe'er they roam, the world must follow still the plougher's team; Though toilsome, culture of the ground as noblest toil esteem.*
 
-*அலரறிவுறுத்தல் · காமத்துப்பால்*  
-<sub>Kural #1146 · September 26, 2026</sub>
+*உழவு · பொருட்பால்*  
+<sub>Kural #1031 · September 27, 2026</sub>
 <!-- KURAL:END -->
 
 
