@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> சுழன்றும்ஏர்ப் பின்னது உலகம் அதனால் உழந்தும் உழவே தலை.  
+> பணைநீங்கிப் பைந்தொடி சோரும் துணைநீங்கித் தொல்கவின் வாடிய தோள்.  
 >
-> *Howe'er they roam, the world must follow still the plougher's team; Though toilsome, culture of the ground as noblest toil esteem.*
+> *When lover went, then faded all their wonted charms, And armlets' golden round slips off from these poor wasted arms.*
 
-*உழவு · பொருட்பால்*  
-<sub>Kural #1031 · September 27, 2026</sub>
+*உறுப்புநலனழிதல் · காமத்துப்பால்*  
+<sub>Kural #1234 · September 28, 2026</sub>
 <!-- KURAL:END -->
 
 
