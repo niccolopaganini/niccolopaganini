@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> பணைநீங்கிப் பைந்தொடி சோரும் துணைநீங்கித் தொல்கவின் வாடிய தோள்.  
+> கேட்டார்ப் பிணிக்கும் தகையவாய்க் கேளாரும் வேட்ப மொழிவதாம் சொல்.  
 >
-> *When lover went, then faded all their wonted charms, And armlets' golden round slips off from these poor wasted arms.*
+> *'Tis speech that spell-bound holds the listening ear, While those who have not heard desire to hear.*
 
-*உறுப்புநலனழிதல் · காமத்துப்பால்*  
-<sub>Kural #1234 · September 28, 2026</sub>
+*சொல்வன்மை · பொருட்பால்*  
+<sub>Kural #643 · September 29, 2026</sub>
 <!-- KURAL:END -->
 
 
