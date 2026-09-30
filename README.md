@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> கேட்டார்ப் பிணிக்கும் தகையவாய்க் கேளாரும் வேட்ப மொழிவதாம் சொல்.  
+> இடைதெரிந்து நன்குணர்ந்து சொல்லுக சொல்லின் நடைதெரிந்த நன்மை யவர்.  
 >
-> *'Tis speech that spell-bound holds the listening ear, While those who have not heard desire to hear.*
+> *Good men to whom the arts of eloquence are known, Should seek occasion meet, and say what well they've made their own.*
 
-*சொல்வன்மை · பொருட்பால்*  
-<sub>Kural #643 · September 29, 2026</sub>
+*அவையறிதல் · பொருட்பால்*  
+<sub>Kural #712 · September 30, 2026</sub>
 <!-- KURAL:END -->
 
 
