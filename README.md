@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> இடைதெரிந்து நன்குணர்ந்து சொல்லுக சொல்லின் நடைதெரிந்த நன்மை யவர்.  
+> எனைமாட்சித் தாகியக் கண்ணும் வினைமாட்சி இல்லார்கண் இல்லது அரண்.  
 >
-> *Good men to whom the arts of eloquence are known, Should seek occasion meet, and say what well they've made their own.*
+> *Howe'er majestic castled walls may rise, To craven souls no fortress strength supplies.*
 
-*அவையறிதல் · பொருட்பால்*  
-<sub>Kural #712 · September 30, 2026</sub>
+*அரண் · பொருட்பால்*  
+<sub>Kural #750 · October 01, 2026</sub>
 <!-- KURAL:END -->
 
 
