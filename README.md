@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> எனைமாட்சித் தாகியக் கண்ணும் வினைமாட்சி இல்லார்கண் இல்லது அரண்.  
+> தாளாண்மை இல்லாதான் வேளாண்மை பேடிகை வாளாண்மை போலக் கெடும்.  
 >
-> *Howe'er majestic castled walls may rise, To craven souls no fortress strength supplies.*
+> *Beneficent intent in men by whom no strenuous work is wrought, Like battle-axe in sexless being's hand availeth nought.*
 
-*அரண் · பொருட்பால்*  
-<sub>Kural #750 · October 01, 2026</sub>
+*ஆள்வினையுடைமை · பொருட்பால்*  
+<sub>Kural #614 · October 02, 2026</sub>
 <!-- KURAL:END -->
 
 
