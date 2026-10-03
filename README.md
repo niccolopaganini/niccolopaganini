@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> தாளாண்மை இல்லாதான் வேளாண்மை பேடிகை வாளாண்மை போலக் கெடும்.  
+> அன்புடைமை ஆன்ற குடிப்பிறத்தல் வேந்தவாம் பண்புடைமை தூதுரைப்பான் பண்பு.  
 >
-> *Beneficent intent in men by whom no strenuous work is wrought, Like battle-axe in sexless being's hand availeth nought.*
+> *Benevolence high birth, the courtesy kings love:- These qualities the envoy of a king approve.*
 
-*ஆள்வினையுடைமை · பொருட்பால்*  
-<sub>Kural #614 · October 02, 2026</sub>
+*தூது · பொருட்பால்*  
+<sub>Kural #681 · October 03, 2026</sub>
 <!-- KURAL:END -->
 
 
