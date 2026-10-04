@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> அன்புடைமை ஆன்ற குடிப்பிறத்தல் வேந்தவாம் பண்புடைமை தூதுரைப்பான் பண்பு.  
+> இரப்பாரை இல்லாயின் ஈர்ங்கண்மா ஞாலம் மரப்பாவை சென்றுவந் தற்று.  
 >
-> *Benevolence high birth, the courtesy kings love:- These qualities the envoy of a king approve.*
+> *If askers cease, the mighty earth, where cooling fountains flow, Will be a stage where wooden puppets come and go.*
 
-*தூது · பொருட்பால்*  
-<sub>Kural #681 · October 03, 2026</sub>
+*இரவு · பொருட்பால்*  
+<sub>Kural #1058 · October 04, 2026</sub>
 <!-- KURAL:END -->
 
 
