@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> இரப்பாரை இல்லாயின் ஈர்ங்கண்மா ஞாலம் மரப்பாவை சென்றுவந் தற்று.  
+> வன்கண் குடிகாத்தல் கற்றறிதல் ஆள்வினையோடு ஐந்துடன் மாண்டது அமைச்சு.  
 >
-> *If askers cease, the mighty earth, where cooling fountains flow, Will be a stage where wooden puppets come and go.*
+> *A minister must greatness own of guardian power, determined mind, Learn'd wisdom, manly effort with the former five combined.*
 
-*இரவு · பொருட்பால்*  
-<sub>Kural #1058 · October 04, 2026</sub>
+*அமைச்சு · பொருட்பால்*  
+<sub>Kural #632 · October 05, 2026</sub>
 <!-- KURAL:END -->
 
 
