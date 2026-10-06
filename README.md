@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> வன்கண் குடிகாத்தல் கற்றறிதல் ஆள்வினையோடு ஐந்துடன் மாண்டது அமைச்சு.  
+> பெண்ணியலார் எல்லாரும் கண்ணின் பொதுஉண்பர் நண்ணேன் பரத்தநின் மார்பு.  
 >
-> *A minister must greatness own of guardian power, determined mind, Learn'd wisdom, manly effort with the former five combined.*
+> *From thy regard all womankind Enjoys an equal grace; O thou of wandering fickle mind, I shrink from thine embrace!*
 
-*அமைச்சு · பொருட்பால்*  
-<sub>Kural #632 · October 05, 2026</sub>
+*புலவி நுணுக்கம் · காமத்துப்பால்*  
+<sub>Kural #1311 · October 06, 2026</sub>
 <!-- KURAL:END -->
 
 
