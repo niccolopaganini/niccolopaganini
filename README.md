@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> பெண்ணியலார் எல்லாரும் கண்ணின் பொதுஉண்பர் நண்ணேன் பரத்தநின் மார்பு.  
+> விசும்பின் துளிவீழின் அல்லால்மற் றாங்கே பசும்புல் தலைகாண்பு அரிது.  
 >
-> *From thy regard all womankind Enjoys an equal grace; O thou of wandering fickle mind, I shrink from thine embrace!*
+> *If from the clouds no drops of rain are shed. 'Tis rare to see green herb lift up its head.*
 
-*புலவி நுணுக்கம் · காமத்துப்பால்*  
-<sub>Kural #1311 · October 06, 2026</sub>
+*வான்சிறப்பு · அறத்துப்பால்*  
+<sub>Kural #16 · October 07, 2026</sub>
 <!-- KURAL:END -->
 
 
