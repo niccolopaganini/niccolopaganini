@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> விசும்பின் துளிவீழின் அல்லால்மற் றாங்கே பசும்புல் தலைகாண்பு அரிது.  
+> மணியில் திகழ்தரு நூல்போல் மடந்தை அணியில் திகழ்வதொன்று உண்டு.  
 >
-> *If from the clouds no drops of rain are shed. 'Tis rare to see green herb lift up its head.*
+> *As through the crystal beads is seen the thread on which they 're strung So in her beauty gleams some thought cannot find a tongue.*
 
-*வான்சிறப்பு · அறத்துப்பால்*  
-<sub>Kural #16 · October 07, 2026</sub>
+*குறிப்பறிவுறுத்தல் · காமத்துப்பால்*  
+<sub>Kural #1273 · October 08, 2026</sub>
 <!-- KURAL:END -->
 
 
