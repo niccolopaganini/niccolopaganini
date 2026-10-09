@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> மணியில் திகழ்தரு நூல்போல் மடந்தை அணியில் திகழ்வதொன்று உண்டு.  
+> வேலொடு நின்றான் இடுவென் றதுபோலும் கோலொடு நின்றான் இரவு.  
 >
-> *As through the crystal beads is seen the thread on which they 're strung So in her beauty gleams some thought cannot find a tongue.*
+> *As 'Give' the robber cries with lance uplift, So kings with sceptred hand implore a gift.*
 
-*குறிப்பறிவுறுத்தல் · காமத்துப்பால்*  
-<sub>Kural #1273 · October 08, 2026</sub>
+*கொடுங்கோன்மை · பொருட்பால்*  
+<sub>Kural #552 · October 09, 2026</sub>
 <!-- KURAL:END -->
 
 
