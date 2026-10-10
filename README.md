@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> வேலொடு நின்றான் இடுவென் றதுபோலும் கோலொடு நின்றான் இரவு.  
+> துஞ்சுங்கால் தோள்மேலர் ஆகி விழிக்குங்கால் நெஞ்சத்தர் ஆவர் விரைந்து.  
 >
-> *As 'Give' the robber cries with lance uplift, So kings with sceptred hand implore a gift.*
+> *And when I sleep he holds my form embraced; And when I wake to fill my heart makes haste!*
 
-*கொடுங்கோன்மை · பொருட்பால்*  
-<sub>Kural #552 · October 09, 2026</sub>
+*கனவுநிலையுரைத்தல் · காமத்துப்பால்*  
+<sub>Kural #1218 · October 10, 2026</sub>
 <!-- KURAL:END -->
 
 
