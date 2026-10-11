@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> துஞ்சுங்கால் தோள்மேலர் ஆகி விழிக்குங்கால் நெஞ்சத்தர் ஆவர் விரைந்து.  
+> உள்ளொற்றி உள்ளூர் நகப்படுவர் எஞ்ஞான்றும் கள்ளொற்றிக் கண்சாய் பவர்3  
 >
-> *And when I sleep he holds my form embraced; And when I wake to fill my heart makes haste!*
+> *Who turn aside to drink, and droop their heavy eye, Shall be their townsmen's jest, when they the fault espy.*
 
-*கனவுநிலையுரைத்தல் · காமத்துப்பால்*  
-<sub>Kural #1218 · October 10, 2026</sub>
+*கள்ளுண்ணாமை · பொருட்பால்*  
+<sub>Kural #927 · October 11, 2026</sub>
 <!-- KURAL:END -->
 
 
