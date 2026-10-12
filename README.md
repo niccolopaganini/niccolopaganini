@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> உள்ளொற்றி உள்ளூர் நகப்படுவர் எஞ்ஞான்றும் கள்ளொற்றிக் கண்சாய் பவர்3  
+> எளிதென இல்லிறப்பான் எய்துமெஞ் ஞான்றும் விளியாது நிற்கும் பழி.  
 >
-> *Who turn aside to drink, and droop their heavy eye, Shall be their townsmen's jest, when they the fault espy.*
+> *'Mere triflel' saying thus, invades the home, so he ensures. A gain of guilt that deathless aye endures.*
 
-*கள்ளுண்ணாமை · பொருட்பால்*  
-<sub>Kural #927 · October 11, 2026</sub>
+*பிறனில் விழையாமை · அறத்துப்பால்*  
+<sub>Kural #145 · October 12, 2026</sub>
 <!-- KURAL:END -->
 
 
