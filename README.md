@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> எளிதென இல்லிறப்பான் எய்துமெஞ் ஞான்றும் விளியாது நிற்கும் பழி.  
+> யான்நோக்கும் காலை நிலன்நோக்கும் நோக்காக்கால் தான்நோக்கி மெல்ல நகும்.  
 >
-> *'Mere triflel' saying thus, invades the home, so he ensures. A gain of guilt that deathless aye endures.*
+> *I look on her: her eyes are on the ground the while: I look away: she looks on me with timid smile.*
 
-*பிறனில் விழையாமை · அறத்துப்பால்*  
-<sub>Kural #145 · October 12, 2026</sub>
+*குறிப்பறிதல் · காமத்துப்பால்*  
+<sub>Kural #1094 · October 13, 2026</sub>
 <!-- KURAL:END -->
 
 
