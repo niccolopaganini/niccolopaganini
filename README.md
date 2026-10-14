@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> யான்நோக்கும் காலை நிலன்நோக்கும் நோக்காக்கால் தான்நோக்கி மெல்ல நகும்.  
+> அவாஇல்லார்க் கில்லாகுந் துன்பம் அஃதுண்டேல் தவாஅது மேன்மேல் வரும்.  
 >
-> *I look on her: her eyes are on the ground the while: I look away: she looks on me with timid smile.*
+> *Affliction is not known where no desires abide; Where these are, endless rises sorrow's tide.*
 
-*குறிப்பறிதல் · காமத்துப்பால்*  
-<sub>Kural #1094 · October 13, 2026</sub>
+*அவாவறுத்தல் · அறத்துப்பால்*  
+<sub>Kural #368 · October 14, 2026</sub>
 <!-- KURAL:END -->
 
 
