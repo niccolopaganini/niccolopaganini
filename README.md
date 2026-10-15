@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> அவாஇல்லார்க் கில்லாகுந் துன்பம் அஃதுண்டேல் தவாஅது மேன்மேல் வரும்.  
+> அறிகிலார் எல்லாரும் என்றேஎன் காமம் மறுகின் மறுகும் மருண்டு.  
 >
-> *Affliction is not known where no desires abide; Where these are, endless rises sorrow's tide.*
+> *'There's no one knows my heart,' so says my love, And thus, in public ways, perturbed will rove.*
 
-*அவாவறுத்தல் · அறத்துப்பால்*  
-<sub>Kural #368 · October 14, 2026</sub>
+*நாணுத்துறவுரைத்தல் · காமத்துப்பால்*  
+<sub>Kural #1139 · October 15, 2026</sub>
 <!-- KURAL:END -->
 
 
