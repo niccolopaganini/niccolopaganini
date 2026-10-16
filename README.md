@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> அறிகிலார் எல்லாரும் என்றேஎன் காமம் மறுகின் மறுகும் மருண்டு.  
+> கெடுங்காலைக் கைவிடுவார் கேண்மை அடுங்காலை உள்ளினும் உள்ளஞ் சுடும்.  
 >
-> *'There's no one knows my heart,' so says my love, And thus, in public ways, perturbed will rove.*
+> *Of friends deserting us on ruin's brink, 'Tis torture e'en in life's last hour to think.*
 
-*நாணுத்துறவுரைத்தல் · காமத்துப்பால்*  
-<sub>Kural #1139 · October 15, 2026</sub>
+*நட்பாராய்தல் · பொருட்பால்*  
+<sub>Kural #799 · October 16, 2026</sub>
 <!-- KURAL:END -->
 
 
