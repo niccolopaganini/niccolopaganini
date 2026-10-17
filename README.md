@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> கெடுங்காலைக் கைவிடுவார் கேண்மை அடுங்காலை உள்ளினும் உள்ளஞ் சுடும்.  
+> துறந்தார் படிவத்த ராகி இறந்தாராய்ந்து என்செயினும் சோர்விலது ஒற்று.  
 >
-> *Of friends deserting us on ruin's brink, 'Tis torture e'en in life's last hour to think.*
+> *As monk or devotee, through every hindrance making way, A spy, whate'er men do, must watchful mind display.*
 
-*நட்பாராய்தல் · பொருட்பால்*  
-<sub>Kural #799 · October 16, 2026</sub>
+*ஒற்றாடல் · பொருட்பால்*  
+<sub>Kural #586 · October 17, 2026</sub>
 <!-- KURAL:END -->
 
 
