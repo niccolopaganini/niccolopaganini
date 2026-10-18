@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> துறந்தார் படிவத்த ராகி இறந்தாராய்ந்து என்செயினும் சோர்விலது ஒற்று.  
+> ஒன்னார்த் தெறலும் உவந்தாரை ஆக்கலும் எண்ணின் தவத்தான் வரும்.  
 >
-> *As monk or devotee, through every hindrance making way, A spy, whate'er men do, must watchful mind display.*
+> *Destruction to his foes, to friends increase of joy. The 'penitent' can cause, if this his thoughts employ.*
 
-*ஒற்றாடல் · பொருட்பால்*  
-<sub>Kural #586 · October 17, 2026</sub>
+*தவம் · அறத்துப்பால்*  
+<sub>Kural #264 · October 18, 2026</sub>
 <!-- KURAL:END -->
 
 
