@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> ஒன்னார்த் தெறலும் உவந்தாரை ஆக்கலும் எண்ணின் தவத்தான் வரும்.  
+> இரத்தலும் ஈதலே போலும் கரத்தல் கனவிலும் தேற்றாதார் மாட்டு.  
 >
-> *Destruction to his foes, to friends increase of joy. The 'penitent' can cause, if this his thoughts employ.*
+> *Like giving alms, may even asking pleasant seem, From men who of denial never even dream.*
 
-*தவம் · அறத்துப்பால்*  
-<sub>Kural #264 · October 18, 2026</sub>
+*இரவு · பொருட்பால்*  
+<sub>Kural #1054 · October 19, 2026</sub>
 <!-- KURAL:END -->
 
 
