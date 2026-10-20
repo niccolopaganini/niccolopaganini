@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> இரத்தலும் ஈதலே போலும் கரத்தல் கனவிலும் தேற்றாதார் மாட்டு.  
+> அழுக்காறு எனஒரு பாவி திருச்செற்றுத் தீயுழி உய்த்து விடும்.  
 >
-> *Like giving alms, may even asking pleasant seem, From men who of denial never even dream.*
+> *Envy, embodied ill, incomparable bane, Good fortune slays, and soul consigns to fiery pain.*
 
-*இரவு · பொருட்பால்*  
-<sub>Kural #1054 · October 19, 2026</sub>
+*அழுக்காறாமை · அறத்துப்பால்*  
+<sub>Kural #168 · October 20, 2026</sub>
 <!-- KURAL:END -->
 
 
