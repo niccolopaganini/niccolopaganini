@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> அழுக்காறு எனஒரு பாவி திருச்செற்றுத் தீயுழி உய்த்து விடும்.  
+> பெரியாரைப் பேணாது ஒழுகிற் பெரியாரால் பேரா இடும்பை தரும்.  
 >
-> *Envy, embodied ill, incomparable bane, Good fortune slays, and soul consigns to fiery pain.*
+> *If men will lead their lives reckless of great men's will, Such life, through great men's powers, will bring perpetual ill.*
 
-*அழுக்காறாமை · அறத்துப்பால்*  
-<sub>Kural #168 · October 20, 2026</sub>
+*பெரியாரைப் பிழையாமை · பொருட்பால்*  
+<sub>Kural #892 · October 21, 2026</sub>
 <!-- KURAL:END -->
 
 
