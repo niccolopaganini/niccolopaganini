@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> பெரியாரைப் பேணாது ஒழுகிற் பெரியாரால் பேரா இடும்பை தரும்.  
+> ஆங்கமை வெய்தியக் கண்ணும் பயமின்றே வேந்தமை வில்லாத நாடு.  
 >
-> *If men will lead their lives reckless of great men's will, Such life, through great men's powers, will bring perpetual ill.*
+> *Though blest with all these varied gifts' increase, A land gains nought that is not with its king at peace.*
 
-*பெரியாரைப் பிழையாமை · பொருட்பால்*  
-<sub>Kural #892 · October 21, 2026</sub>
+*நாடு · பொருட்பால்*  
+<sub>Kural #740 · October 22, 2026</sub>
 <!-- KURAL:END -->
 
 
