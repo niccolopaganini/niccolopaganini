@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> ஆங்கமை வெய்தியக் கண்ணும் பயமின்றே வேந்தமை வில்லாத நாடு.  
+> வலியில் நிலைமையான் வல்லுருவம் பெற்றம் புலியின்தோல் போர்த்துமேய்ந் தற்று.  
 >
-> *Though blest with all these varied gifts' increase, A land gains nought that is not with its king at peace.*
+> *As if a steer should graze wrapped round with tiger's skin, Is show of virtuous might when weakness lurks within.*
 
-*நாடு · பொருட்பால்*  
-<sub>Kural #740 · October 22, 2026</sub>
+*கூடாவொழுக்கம் · அறத்துப்பால்*  
+<sub>Kural #273 · October 23, 2026</sub>
 <!-- KURAL:END -->
 
 
