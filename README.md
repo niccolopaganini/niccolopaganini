@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> வலியில் நிலைமையான் வல்லுருவம் பெற்றம் புலியின்தோல் போர்த்துமேய்ந் தற்று.  
+> செல்லிடத்துக் காப்பான் சினங்காப்பான் அல்லிடத்துக் காக்கின்என் காவாக்கா  
 >
-> *As if a steer should graze wrapped round with tiger's skin, Is show of virtuous might when weakness lurks within.*
+> *Where thou hast power thy angry will to work, thy wrath restrain; Where power is none, what matter if thou check or give it rein?*
 
-*கூடாவொழுக்கம் · அறத்துப்பால்*  
-<sub>Kural #273 · October 23, 2026</sub>
+*வெகுளாமை · அறத்துப்பால்*  
+<sub>Kural #301 · October 24, 2026</sub>
 <!-- KURAL:END -->
 
 
