@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> செல்லிடத்துக் காப்பான் சினங்காப்பான் அல்லிடத்துக் காக்கின்என் காவாக்கா  
+> செய்வினை செய்வான் செயன்முறை அவ்வினை உள்ளறிவான் உள்ளம் கொளல்.  
 >
-> *Where thou hast power thy angry will to work, thy wrath restrain; Where power is none, what matter if thou check or give it rein?*
+> *Who would succeed must thus begin: first let him ask The thoughts of them who thoroughly know the task.*
 
-*வெகுளாமை · அறத்துப்பால்*  
-<sub>Kural #301 · October 24, 2026</sub>
+*வினைசெயல்வகை · பொருட்பால்*  
+<sub>Kural #677 · October 25, 2026</sub>
 <!-- KURAL:END -->
 
 
