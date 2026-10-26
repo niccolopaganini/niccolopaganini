@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> செய்வினை செய்வான் செயன்முறை அவ்வினை உள்ளறிவான் உள்ளம் கொளல்.  
+> அருமை உடைத்தென்று அசாவாமை வேண்டும் பெருமை முயற்சி தரும்.  
 >
-> *Who would succeed must thus begin: first let him ask The thoughts of them who thoroughly know the task.*
+> *Say not, 'Tis hard', in weak, desponding hour, For strenuous effort gives prevailing power.*
 
-*வினைசெயல்வகை · பொருட்பால்*  
-<sub>Kural #677 · October 25, 2026</sub>
+*ஆள்வினையுடைமை · பொருட்பால்*  
+<sub>Kural #611 · October 26, 2026</sub>
 <!-- KURAL:END -->
 
 
