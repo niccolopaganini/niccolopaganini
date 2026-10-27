@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> அருமை உடைத்தென்று அசாவாமை வேண்டும் பெருமை முயற்சி தரும்.  
+> நலக்குரியார் யாரெனின் நாமநீர் வைப்பின் பிறர்க்குரியாள் தோள்தோயா தார்.  
 >
-> *Say not, 'Tis hard', in weak, desponding hour, For strenuous effort gives prevailing power.*
+> *Who 're good indeed, on earth begirt by ocean's gruesome tide? The men who touch not her that is another's bride.*
 
-*ஆள்வினையுடைமை · பொருட்பால்*  
-<sub>Kural #611 · October 26, 2026</sub>
+*பிறனில் விழையாமை · அறத்துப்பால்*  
+<sub>Kural #149 · October 27, 2026</sub>
 <!-- KURAL:END -->
 
 
