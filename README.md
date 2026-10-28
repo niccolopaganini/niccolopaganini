@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> நலக்குரியார் யாரெனின் நாமநீர் வைப்பின் பிறர்க்குரியாள் தோள்தோயா தார்.  
+> அழுக்கற்று அகன்றாரும் இல்லை அஃதுஇல்லார் பெருக்கத்தில் தீர்ந்தாரும் இல்.  
 >
-> *Who 're good indeed, on earth begirt by ocean's gruesome tide? The men who touch not her that is another's bride.*
+> *No envious men to large and full felicity attain; No men from envy free have failed a sure increase to gain.*
 
-*பிறனில் விழையாமை · அறத்துப்பால்*  
-<sub>Kural #149 · October 27, 2026</sub>
+*அழுக்காறாமை · அறத்துப்பால்*  
+<sub>Kural #170 · October 28, 2026</sub>
 <!-- KURAL:END -->
 
 
