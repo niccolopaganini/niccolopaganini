@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> அழுக்கற்று அகன்றாரும் இல்லை அஃதுஇல்லார் பெருக்கத்தில் தீர்ந்தாரும் இல்.  
+> கொல்லான் புலாலை மறுத்தானைக் கைகூப்பி எல்லா உயிருந் தொழும்.  
 >
-> *No envious men to large and full felicity attain; No men from envy free have failed a sure increase to gain.*
+> *Who slays nought,- flesh rejects- his feet before All living things with clasped hands adore.*
 
-*அழுக்காறாமை · அறத்துப்பால்*  
-<sub>Kural #170 · October 28, 2026</sub>
+*புலான்மறுத்தல் · அறத்துப்பால்*  
+<sub>Kural #260 · October 29, 2026</sub>
 <!-- KURAL:END -->
 
 
