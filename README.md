@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> கொல்லான் புலாலை மறுத்தானைக் கைகூப்பி எல்லா உயிருந் தொழும்.  
+> பெண்ணேவல் செய்தொழுகும் ஆண்மையின் நாணுடைப் பெண்ணே பெருமை உடைத்து.  
 >
-> *Who slays nought,- flesh rejects- his feet before All living things with clasped hands adore.*
+> *The dignity of modest womanhood excels His manliness, obedient to a woman's law who dwells.*
 
-*புலான்மறுத்தல் · அறத்துப்பால்*  
-<sub>Kural #260 · October 29, 2026</sub>
+*பெண்வழிச்சேறல் · பொருட்பால்*  
+<sub>Kural #907 · October 30, 2026</sub>
 <!-- KURAL:END -->
 
 
