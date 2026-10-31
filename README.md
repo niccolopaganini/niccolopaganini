@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> பெண்ணேவல் செய்தொழுகும் ஆண்மையின் நாணுடைப் பெண்ணே பெருமை உடைத்து.  
+> புலத்தலின் புத்தேள்நாடு உண்டோ நிலத்தொடு நீரியைந் தன்னார் அகத்து.  
 >
-> *The dignity of modest womanhood excels His manliness, obedient to a woman's law who dwells.*
+> *Is there a bliss in any world more utterly divine, Than 'coyness' gives, when hearts as earth and water join?*
 
-*பெண்வழிச்சேறல் · பொருட்பால்*  
-<sub>Kural #907 · October 30, 2026</sub>
+*ஊடலுவகை · காமத்துப்பால்*  
+<sub>Kural #1323 · October 31, 2026</sub>
 <!-- KURAL:END -->
 
 
