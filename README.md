@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> புலத்தலின் புத்தேள்நாடு உண்டோ நிலத்தொடு நீரியைந் தன்னார் அகத்து.  
+> மனந்தூய்மை செய்வினை தூய்மை இரண்டும் இனந்தூய்மை தூவா வரும்.  
 >
-> *Is there a bliss in any world more utterly divine, Than 'coyness' gives, when hearts as earth and water join?*
+> *Both purity of mind, and purity of action clear, Leaning no staff of pure companionship, to man draw near.*
 
-*ஊடலுவகை · காமத்துப்பால்*  
-<sub>Kural #1323 · October 31, 2026</sub>
+*சிற்றினஞ்சேராமை · பொருட்பால்*  
+<sub>Kural #455 · November 01, 2026</sub>
 <!-- KURAL:END -->
 
 
