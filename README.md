@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> மனந்தூய்மை செய்வினை தூய்மை இரண்டும் இனந்தூய்மை தூவா வரும்.  
+> பிறன்மனை நோக்காத பேராண்மை சான்றோர்க்கு அறனொன்றோ ஆன்ற வொழுக்கு.  
 >
-> *Both purity of mind, and purity of action clear, Leaning no staff of pure companionship, to man draw near.*
+> *Manly excellence, that looks not on another's wife, Is not virtue merely, 'tis full 'propriety' of life.*
 
-*சிற்றினஞ்சேராமை · பொருட்பால்*  
-<sub>Kural #455 · November 01, 2026</sub>
+*பிறனில் விழையாமை · அறத்துப்பால்*  
+<sub>Kural #148 · November 02, 2026</sub>
 <!-- KURAL:END -->
 
 
