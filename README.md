@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> பிறன்மனை நோக்காத பேராண்மை சான்றோர்க்கு அறனொன்றோ ஆன்ற வொழுக்கு.  
+> மாலையோ அல்லை மணந்தார் உயிருண்ணும் வேலைநீ வாழி பொழுது.  
 >
-> *Manly excellence, that looks not on another's wife, Is not virtue merely, 'tis full 'propriety' of life.*
+> *Thou art not evening, but a spear that doth devour The souls of brides; farewell, thou evening hour!*
 
-*பிறனில் விழையாமை · அறத்துப்பால்*  
-<sub>Kural #148 · November 02, 2026</sub>
+*பொழுதுகண்டிரங்கல் · காமத்துப்பால்*  
+<sub>Kural #1221 · November 03, 2026</sub>
 <!-- KURAL:END -->
 
 
