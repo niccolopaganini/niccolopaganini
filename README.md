@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> மாலையோ அல்லை மணந்தார் உயிருண்ணும் வேலைநீ வாழி பொழுது.  
+> இலன்என்று தீயவை செய்யற்க செய்யின் இலனாகும் மற்றும் பெயர்த்து.  
 >
-> *Thou art not evening, but a spear that doth devour The souls of brides; farewell, thou evening hour!*
+> *Make not thy poverty a plea for ill; Thy evil deeds will make thee poorer still.*
 
-*பொழுதுகண்டிரங்கல் · காமத்துப்பால்*  
-<sub>Kural #1221 · November 03, 2026</sub>
+*தீவினையச்சம் · அறத்துப்பால்*  
+<sub>Kural #205 · November 04, 2026</sub>
 <!-- KURAL:END -->
 
 
