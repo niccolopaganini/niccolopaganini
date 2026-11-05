@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> இலன்என்று தீயவை செய்யற்க செய்யின் இலனாகும் மற்றும் பெயர்த்து.  
+> பாலொடு தேன்கலந் தற்றே பணிமொழி வாலெயிறு ஊறிய நீர்.  
 >
-> *Make not thy poverty a plea for ill; Thy evil deeds will make thee poorer still.*
+> *The dew on her white teeth, whose voice is soft and low, Is as when milk and honey mingled flow.*
 
-*தீவினையச்சம் · அறத்துப்பால்*  
-<sub>Kural #205 · November 04, 2026</sub>
+*காதற்சிறப்புரைத்தல் · காமத்துப்பால்*  
+<sub>Kural #1121 · November 05, 2026</sub>
 <!-- KURAL:END -->
 
 
