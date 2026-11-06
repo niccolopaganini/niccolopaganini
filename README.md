@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> பாலொடு தேன்கலந் தற்றே பணிமொழி வாலெயிறு ஊறிய நீர்.  
+> குடிப்பிறந்தார் கண்விளங்கும் குற்றம் விசும்பின் மதிக்கண் மறுப்போல் உயர்ந்து.  
 >
-> *The dew on her white teeth, whose voice is soft and low, Is as when milk and honey mingled flow.*
+> *The faults of men of noble race are seen by every eye, As spots on her bright orb that walks sublime the evening sky.*
 
-*காதற்சிறப்புரைத்தல் · காமத்துப்பால்*  
-<sub>Kural #1121 · November 05, 2026</sub>
+*குடிமை · பொருட்பால்*  
+<sub>Kural #957 · November 06, 2026</sub>
 <!-- KURAL:END -->
 
 
