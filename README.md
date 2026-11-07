@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> குடிப்பிறந்தார் கண்விளங்கும் குற்றம் விசும்பின் மதிக்கண் மறுப்போல் உயர்ந்து.  
+> ஈவார்கண் என்னுண்டாம் தோற்றம் இரந்துகோள் மேவார் இலாஅக் கடை.  
 >
-> *The faults of men of noble race are seen by every eye, As spots on her bright orb that walks sublime the evening sky.*
+> *What glory will there be to men of generous soul, When none are found to love the askers' role?*
 
-*குடிமை · பொருட்பால்*  
-<sub>Kural #957 · November 06, 2026</sub>
+*இரவு · பொருட்பால்*  
+<sub>Kural #1059 · November 07, 2026</sub>
 <!-- KURAL:END -->
 
 
