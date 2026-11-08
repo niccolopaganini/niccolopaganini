@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> ஈவார்கண் என்னுண்டாம் தோற்றம் இரந்துகோள் மேவார் இலாஅக் கடை.  
+> படலாற்றா பைதல் உழக்கும் கடலாற்றாக் காமநோய் செய்தஎன் கண்.  
 >
-> *What glory will there be to men of generous soul, When none are found to love the askers' role?*
+> *The eye that wrought me more than sea could hold of woes, Is suffering pangs that banish all repose.*
 
-*இரவு · பொருட்பால்*  
-<sub>Kural #1059 · November 07, 2026</sub>
+*கண்விதுப்பழிதல் · காமத்துப்பால்*  
+<sub>Kural #1175 · November 08, 2026</sub>
 <!-- KURAL:END -->
 
 
