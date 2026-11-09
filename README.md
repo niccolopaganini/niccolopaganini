@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> படலாற்றா பைதல் உழக்கும் கடலாற்றாக் காமநோய் செய்தஎன் கண்.  
+> தனக்குவமை இல்லாதான் தாள்சேர்ந்தார்க் கல்லால் மனக்கவலை மாற்றல் அரிது.  
 >
-> *The eye that wrought me more than sea could hold of woes, Is suffering pangs that banish all repose.*
+> *Unless His foot, 'to Whom none can compare,' men gain, 'Tis hard for mind to find relief from anxious pain.*
 
-*கண்விதுப்பழிதல் · காமத்துப்பால்*  
-<sub>Kural #1175 · November 08, 2026</sub>
+*கடவுள் வாழ்த்து · அறத்துப்பால்*  
+<sub>Kural #7 · November 09, 2026</sub>
 <!-- KURAL:END -->
 
 
