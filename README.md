@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> தனக்குவமை இல்லாதான் தாள்சேர்ந்தார்க் கல்லால் மனக்கவலை மாற்றல் அரிது.  
+> கண்டுகேட்டு உண்டுயிர்த்து உற்றறியும் ஐம்புலனும் ஒண்தொடி கண்ணே உள.  
 >
-> *Unless His foot, 'to Whom none can compare,' men gain, 'Tis hard for mind to find relief from anxious pain.*
+> *All joys that senses five- sight, hearing, taste, smell, touch- can give, In this resplendent armlets-bearing damsel live!*
 
-*கடவுள் வாழ்த்து · அறத்துப்பால்*  
-<sub>Kural #7 · November 09, 2026</sub>
+*புணர்ச்சிமகிழ்தல் · காமத்துப்பால்*  
+<sub>Kural #1101 · November 10, 2026</sub>
 <!-- KURAL:END -->
 
 
