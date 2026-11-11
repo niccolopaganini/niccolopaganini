@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> கண்டுகேட்டு உண்டுயிர்த்து உற்றறியும் ஐம்புலனும் ஒண்தொடி கண்ணே உள.  
+> அமரகத்து வன்கண்ணர் போலத் தமரகத்தும் ஆற்றுவார் மேற்றே பொறை.  
 >
-> *All joys that senses five- sight, hearing, taste, smell, touch- can give, In this resplendent armlets-bearing damsel live!*
+> *The fearless hero bears the brunt amid the warrior throng; Amid his kindred so the burthen rests upon the strong.*
 
-*புணர்ச்சிமகிழ்தல் · காமத்துப்பால்*  
-<sub>Kural #1101 · November 10, 2026</sub>
+*குடிசெயல்வகை · பொருட்பால்*  
+<sub>Kural #1027 · November 11, 2026</sub>
 <!-- KURAL:END -->
 
 
