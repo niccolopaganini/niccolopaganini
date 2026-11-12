@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> அமரகத்து வன்கண்ணர் போலத் தமரகத்தும் ஆற்றுவார் மேற்றே பொறை.  
+> அளவற஧ந்தார் நெஞ்சத் தறம்போல நிற்கும் களவறிந்தார் நெஞ்சில் கரவு.  
 >
-> *The fearless hero bears the brunt amid the warrior throng; Amid his kindred so the burthen rests upon the strong.*
+> *As virtue dwells in heart that 'measured wisdom' gains; Deceit in hearts of fraudful men established reigns.*
 
-*குடிசெயல்வகை · பொருட்பால்*  
-<sub>Kural #1027 · November 11, 2026</sub>
+*கள்ளாமை · அறத்துப்பால்*  
+<sub>Kural #288 · November 12, 2026</sub>
 <!-- KURAL:END -->
 
 
