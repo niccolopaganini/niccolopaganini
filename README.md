@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> அளவற஧ந்தார் நெஞ்சத் தறம்போல நிற்கும் களவறிந்தார் நெஞ்சில் கரவு.  
+> இல்லாளை அஞ்சுவான் அஞ்சுமற் றெஞ்ஞான்றும் நல்லார்க்கு நல்ல செயல்.  
 >
-> *As virtue dwells in heart that 'measured wisdom' gains; Deceit in hearts of fraudful men established reigns.*
+> *Who quakes before his wife will ever tremble too, Good deeds to men of good deserts to do.*
 
-*கள்ளாமை · அறத்துப்பால்*  
-<sub>Kural #288 · November 12, 2026</sub>
+*பெண்வழிச்சேறல் · பொருட்பால்*  
+<sub>Kural #905 · November 13, 2026</sub>
 <!-- KURAL:END -->
 
 
