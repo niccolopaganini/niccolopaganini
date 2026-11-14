@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> இல்லாளை அஞ்சுவான் அஞ்சுமற் றெஞ்ஞான்றும் நல்லார்க்கு நல்ல செயல்.  
+> பொருளானாம் எல்லாமென்று ஈயாது இவறும் மருளானாம் மாணாப் பிறப்பு  
 >
-> *Who quakes before his wife will ever tremble too, Good deeds to men of good deserts to do.*
+> *Who giving nought, opines from wealth all blessing springs, Degraded birth that doting miser's folly brings.*
 
-*பெண்வழிச்சேறல் · பொருட்பால்*  
-<sub>Kural #905 · November 13, 2026</sub>
+*நன்றியில்செல்வம் · பொருட்பால்*  
+<sub>Kural #1002 · November 14, 2026</sub>
 <!-- KURAL:END -->
 
 
