@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> பொருளானாம் எல்லாமென்று ஈயாது இவறும் மருளானாம் மாணாப் பிறப்பு  
+> உவக்காண்எம் காதலர் செல்வார் இவக்காண்என் மேனி பசப்பூர் வது.  
 >
-> *Who giving nought, opines from wealth all blessing springs, Degraded birth that doting miser's folly brings.*
+> *My lover there went forth to roam; This pallor of my frame usurps his place at home.*
 
-*நன்றியில்செல்வம் · பொருட்பால்*  
-<sub>Kural #1002 · November 14, 2026</sub>
+*பசப்புறுபருவரல் · காமத்துப்பால்*  
+<sub>Kural #1185 · November 15, 2026</sub>
 <!-- KURAL:END -->
 
 
