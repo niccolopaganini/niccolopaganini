@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> உவக்காண்எம் காதலர் செல்வார் இவக்காண்என் மேனி பசப்பூர் வது.  
+> கெட்டார்க்கு நட்டார்இல் என்பதோ நெஞ்சேநீ பெட்டாங்கு அவர்பின் செலல்.  
 >
-> *My lover there went forth to roam; This pallor of my frame usurps his place at home.*
+> *'The ruined have no friends, 'they say; and so, my heart, To follow him, at thy desire, from me thou dost depart.*
 
-*பசப்புறுபருவரல் · காமத்துப்பால்*  
-<sub>Kural #1185 · November 15, 2026</sub>
+*நெஞ்சொடுபுலத்தல் · காமத்துப்பால்*  
+<sub>Kural #1293 · November 16, 2026</sub>
 <!-- KURAL:END -->
 
 
