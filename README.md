@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> கெட்டார்க்கு நட்டார்இல் என்பதோ நெஞ்சேநீ பெட்டாங்கு அவர்பின் செலல்.  
+> அறன்கடை நின்றாருள் எல்லாம் பிறன்கடை நின்றாரின் பேதையார் இல்.  
 >
-> *'The ruined have no friends, 'they say; and so, my heart, To follow him, at thy desire, from me thou dost depart.*
+> *No fools, of all that stand from virtue's pale shut out, Like those who longing lurk their neighbour's gate without.*
 
-*நெஞ்சொடுபுலத்தல் · காமத்துப்பால்*  
-<sub>Kural #1293 · November 16, 2026</sub>
+*பிறனில் விழையாமை · அறத்துப்பால்*  
+<sub>Kural #142 · November 17, 2026</sub>
 <!-- KURAL:END -->
 
 
