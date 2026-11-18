@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> அறன்கடை நின்றாருள் எல்லாம் பிறன்கடை நின்றாரின் பேதையார் இல்.  
+> அளித்தஞ்சல் என்றவர் நீப்பின் தெளித்தசொல் தேறியார்க்கு உண்டோ தவறு.  
 >
-> *No fools, of all that stand from virtue's pale shut out, Like those who longing lurk their neighbour's gate without.*
+> *If he depart, who fondly said, 'Fear not,' what blame's incurred By those who trusted to his reassuring word?*
 
-*பிறனில் விழையாமை · அறத்துப்பால்*  
-<sub>Kural #142 · November 17, 2026</sub>
+*பிரிவாற்றாமை · காமத்துப்பால்*  
+<sub>Kural #1154 · November 18, 2026</sub>
 <!-- KURAL:END -->
 
 
