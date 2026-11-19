@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> அளித்தஞ்சல் என்றவர் நீப்பின் தெளித்தசொல் தேறியார்க்கு உண்டோ தவறு.  
+> கற்றீண்டு மெய்ப்பொருள் கண்டார் தலைப்படுவர் மற்றீண்டு வாரா நெறி.  
 >
-> *If he depart, who fondly said, 'Fear not,' what blame's incurred By those who trusted to his reassuring word?*
+> *Who learn, and here the knowledge of the true obtain, Shall find the path that hither cometh not again.*
 
-*பிரிவாற்றாமை · காமத்துப்பால்*  
-<sub>Kural #1154 · November 18, 2026</sub>
+*மெய்யுணர்தல் · அறத்துப்பால்*  
+<sub>Kural #356 · November 19, 2026</sub>
 <!-- KURAL:END -->
 
 
