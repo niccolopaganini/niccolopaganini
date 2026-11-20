@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> கற்றீண்டு மெய்ப்பொருள் கண்டார் தலைப்படுவர் மற்றீண்டு வாரா நெறி.  
+> இடும்பைக்கு இடும்பை படுப்பர் இடும்பைக்கு இடும்பை படாஅ தவர்.  
 >
-> *Who learn, and here the knowledge of the true obtain, Shall find the path that hither cometh not again.*
+> *Who griefs confront with meek, ungrieving heart, From them griefs, put to grief, depart.*
 
-*மெய்யுணர்தல் · அறத்துப்பால்*  
-<sub>Kural #356 · November 19, 2026</sub>
+*இடுக்கணழியாமை · பொருட்பால்*  
+<sub>Kural #623 · November 20, 2026</sub>
 <!-- KURAL:END -->
 
 
