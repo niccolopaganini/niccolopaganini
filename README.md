@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> இடும்பைக்கு இடும்பை படுப்பர் இடும்பைக்கு இடும்பை படாஅ தவர்.  
+> துப்பார்க்குத் துப்பாய துப்பாக்கித் துப்பார்க்குத் துப்பாய தூஉம் மழை.  
 >
-> *Who griefs confront with meek, ungrieving heart, From them griefs, put to grief, depart.*
+> *The rain makes pleasant food for eaters rise; As food itself, thirst-quenching draught supplies.*
 
-*இடுக்கணழியாமை · பொருட்பால்*  
-<sub>Kural #623 · November 20, 2026</sub>
+*வான்சிறப்பு · அறத்துப்பால்*  
+<sub>Kural #12 · November 21, 2026</sub>
 <!-- KURAL:END -->
 
 
