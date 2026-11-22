@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> துப்பார்க்குத் துப்பாய துப்பாக்கித் துப்பார்க்குத் துப்பாய தூஉம் மழை.  
+> மற்றும் தொடர்ப்பாடு எவன்கொல் பிறப்பறுக்கல் உற்றார்க்கு உடம்பும் மிகை.  
 >
-> *The rain makes pleasant food for eaters rise; As food itself, thirst-quenching draught supplies.*
+> *To those who sev'rance seek from being's varied strife, Flesh is burthen sore; what then other bonds of life?*
 
-*வான்சிறப்பு · அறத்துப்பால்*  
-<sub>Kural #12 · November 21, 2026</sub>
+*துறவு · அறத்துப்பால்*  
+<sub>Kural #345 · November 22, 2026</sub>
 <!-- KURAL:END -->
 
 
