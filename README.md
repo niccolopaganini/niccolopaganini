@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> மற்றும் தொடர்ப்பாடு எவன்கொல் பிறப்பறுக்கல் உற்றார்க்கு உடம்பும் மிகை.  
+> மனைவிழைவார் மாண்பயன் எய்தார் வினைவிழையார் வேண்டாப் பொருளும் அது.  
 >
-> *To those who sev'rance seek from being's varied strife, Flesh is burthen sore; what then other bonds of life?*
+> *Who give their soul to love of wife acquire not nobler gain; Who give their soul to strenuous deeds such meaner joys disdain.*
 
-*துறவு · அறத்துப்பால்*  
-<sub>Kural #345 · November 22, 2026</sub>
+*பெண்வழிச்சேறல் · பொருட்பால்*  
+<sub>Kural #901 · November 23, 2026</sub>
 <!-- KURAL:END -->
 
 
