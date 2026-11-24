@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> மனைவிழைவார் மாண்பயன் எய்தார் வினைவிழையார் வேண்டாப் பொருளும் அது.  
+> முறைப்படச் சூழ்ந்தும் முடிவிலவே செய்வர் திறப்பாடு இலாஅ தவர்.  
 >
-> *Who give their soul to love of wife acquire not nobler gain; Who give their soul to strenuous deeds such meaner joys disdain.*
+> *For gain of end desired just counsel nought avails To minister, when tact in execution fails.*
 
-*பெண்வழிச்சேறல் · பொருட்பால்*  
-<sub>Kural #901 · November 23, 2026</sub>
+*அமைச்சு · பொருட்பால்*  
+<sub>Kural #640 · November 24, 2026</sub>
 <!-- KURAL:END -->
 
 
