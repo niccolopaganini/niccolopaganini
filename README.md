@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> முறைப்படச் சூழ்ந்தும் முடிவிலவே செய்வர் திறப்பாடு இலாஅ தவர்.  
+> வஞ்ச மனத்தான் படிற்றொழுக்கம் பூதங்கள் ஐந்தும் அகத்தே நகும்.  
 >
-> *For gain of end desired just counsel nought avails To minister, when tact in execution fails.*
+> *Who with deceitful mind in false way walks of covert sin, The five-fold elements his frame compose, decide within.*
 
-*அமைச்சு · பொருட்பால்*  
-<sub>Kural #640 · November 24, 2026</sub>
+*கூடாவொழுக்கம் · அறத்துப்பால்*  
+<sub>Kural #271 · November 25, 2026</sub>
 <!-- KURAL:END -->
 
 
