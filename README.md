@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> வஞ்ச மனத்தான் படிற்றொழுக்கம் பூதங்கள் ஐந்தும் அகத்தே நகும்.  
+> கொடுப்பது அழுக்கறுப்பான் சுற்றம் உடுப்பதூஉம் உண்பதூஉம் இன்றிக் கெடும்.  
 >
-> *Who with deceitful mind in false way walks of covert sin, The five-fold elements his frame compose, decide within.*
+> *Who scans good gifts to others given with envious eye, His kin, with none to clothe or feed them, surely die.*
 
-*கூடாவொழுக்கம் · அறத்துப்பால்*  
-<sub>Kural #271 · November 25, 2026</sub>
+*அழுக்காறாமை · அறத்துப்பால்*  
+<sub>Kural #166 · November 26, 2026</sub>
 <!-- KURAL:END -->
 
 
