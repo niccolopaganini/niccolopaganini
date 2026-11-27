@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> கொடுப்பது அழுக்கறுப்பான் சுற்றம் உடுப்பதூஉம் உண்பதூஉம் இன்றிக் கெடும்.  
+> பழைமை எனப்படுவது யாதெனின் யாதும் கிழமையைக் கீழ்ந்திடா நட்பு.  
 >
-> *Who scans good gifts to others given with envious eye, His kin, with none to clothe or feed them, surely die.*
+> *Familiarity is friendship's silent pact, That puts restraint on no familiar act.*
 
-*அழுக்காறாமை · அறத்துப்பால்*  
-<sub>Kural #166 · November 26, 2026</sub>
+*பழைமை · பொருட்பால்*  
+<sub>Kural #801 · November 27, 2026</sub>
 <!-- KURAL:END -->
 
 
