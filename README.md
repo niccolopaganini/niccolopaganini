@@ -22,12 +22,12 @@
 <!-- KURAL:START -->
 ### 📜 Thirukkural of the Day
 
-> பழைமை எனப்படுவது யாதெனின் யாதும் கிழமையைக் கீழ்ந்திடா நட்பு.  
+> இருவேறு உலகத்து இயற்கை திருவேறு தெள்ளிய ராதலும் வேறு.  
 >
-> *Familiarity is friendship's silent pact, That puts restraint on no familiar act.*
+> *Two fold the fashion of the world: some live in fortune's light; While other some have souls in wisdom's radiance bright.*
 
-*பழைமை · பொருட்பால்*  
-<sub>Kural #801 · November 27, 2026</sub>
+*ஊழ் · அறத்துப்பால்*  
+<sub>Kural #374 · November 28, 2026</sub>
 <!-- KURAL:END -->
 
 
